@@ -38,6 +38,10 @@ public final class TenseBank {
         return new ArrayList<>(Arrays.asList(items));
     }
 
+    private static List<QuizQuestion> practice(QuizQuestion... items) {
+        return new ArrayList<>(Arrays.asList(items));
+    }
+
     private static void build() {
         TENSES.add(new Tense(
                 "Present Simple", "فعل حال سادہ",
@@ -52,7 +56,7 @@ public final class TenseBank {
                         "وہ صبح چائے پیتی ہے۔",
                         "پانی سو درجے پر ابلتا ہے۔",
                         "ٹرین چھ بجے روانہ ہوتی ہے۔"),
-                list(
+                practice(
                         q("He ____ to the office by bus.", "goes", "go", "going", "gone", "He, she and it take an s."),
                         q("They ____ English every evening.", "practise", "practises", "practising", "practised", "They takes the base verb."),
                         q("The sun ____ in the east.", "rises", "rise", "is rising", "rose", "A fact always uses present simple."),
@@ -74,7 +78,7 @@ public final class TenseBank {
                         "وہ باغ میں کھیل رہے ہیں۔",
                         "وہ آج کل انگریزی سیکھ رہی ہے۔",
                         "باہر بارش ہو رہی ہے۔"),
-                list(
+                practice(
                         q("Look, the baby ____ .", "is sleeping", "sleeps", "slept", "sleep", "Right now means present continuous."),
                         q("We ____ for the bus at the moment.", "are waiting", "wait", "waits", "waited", "Use are with we."),
                         q("I ____ my notes right now.", "am revising", "revise", "revised", "revises", "Use am with I."),
@@ -96,7 +100,7 @@ public final class TenseBank {
                         "وہ دو بار کراچی جا چکی ہے۔",
                         "وہ پہلے ہی کھانا کھا چکے ہیں۔",
                         "ہم برسوں سے ایک دوسرے کو جانتے ہیں۔"),
-                list(
+                practice(
                         q("I ____ my keys, so I cannot open the door.", "have lost", "lost", "am losing", "lose", "The result matters now."),
                         q("She ____ this film three times.", "has seen", "saw", "sees", "seeing", "Use has with she."),
                         q("They ____ not arrived yet.", "have", "has", "did", "are", "Use have with they."),
@@ -118,7 +122,7 @@ public final class TenseBank {
                         "وہ ایک گھنٹے سے انتظار کر رہی ہے۔",
                         "وہ مہینوں سے سڑک بنا رہے ہیں۔",
                         "دن بھر بارش ہو رہی ہے۔"),
-                list(
+                practice(
                         q("He ____ English for two years.", "has been learning", "learns", "learned", "is learning", "For plus a period needs this tense."),
                         q("They ____ since morning.", "have been working", "work", "worked", "are work", "Use have been with they."),
                         q("I ____ for you since four o'clock.", "have been waiting", "wait", "waited", "am waited", "Since plus a time needs this tense."),
@@ -140,7 +144,7 @@ public final class TenseBank {
                         "اس نے کل خط لکھا۔",
                         "انہوں نے اتوار کو کرکٹ کھیلی۔",
                         "وہ کلاس میں نہیں آیا۔"),
-                list(
+                practice(
                         q("We ____ the match last night.", "watched", "watch", "have watched", "watching", "Last night is a finished time."),
                         q("She ____ to Islamabad in 2020.", "moved", "moves", "has moved", "moving", "A stated past year needs past simple."),
                         q("I ____ him at the station yesterday.", "met", "meet", "have met", "meeting", "Meet becomes met."),
@@ -162,7 +166,7 @@ public final class TenseBank {
                         "وہ چھ بجے کھیل رہے تھے۔",
                         "وہ سارا شام کھانا پکا رہی تھی۔",
                         "ہم باہر انتظار کر رہے تھے۔"),
-                list(
+                practice(
                         q("She ____ when the lights went out.", "was studying", "studied", "studies", "is studying", "An action interrupted in the past."),
                         q("They ____ football at that time.", "were playing", "played", "play", "are playing", "Use were with they."),
                         q("I ____ tea when you rang.", "was making", "made", "make", "am making", "Use was with I."),
@@ -184,7 +188,7 @@ public final class TenseBank {
                         "اس نے رات کے کھانے سے پہلے کام مکمل کر لیا تھا۔",
                         "وہ پہلے ہی گھر جا چکے تھے۔",
                         "میں نے ایسی جگہ کبھی نہیں دیکھی تھی۔"),
-                list(
+                practice(
                         q("He ____ his homework before the guests arrived.", "had finished", "finished", "has finished", "finishes", "The earlier of two past actions."),
                         q("When we reached, the film ____ already started.", "had", "has", "was", "did", "Use had for the earlier action."),
                         q("She said she ____ the letter.", "had posted", "posts", "posting", "post", "Reported speech moves one step back."),
@@ -206,7 +210,7 @@ public final class TenseBank {
                         "ریٹائر ہونے سے پہلے وہ دس سال سے پڑھا رہی تھی۔",
                         "وہ صبح سے کھیل رہے تھے۔",
                         "ہمارے نکلنے سے پہلے بارش ہو رہی تھی۔"),
-                list(
+                practice(
                         q("He ____ for two hours when the bus came.", "had been waiting", "waited", "has waited", "waits", "A duration before a past event."),
                         q("They ____ been working since dawn.", "had", "have", "has", "were", "Use had been for past duration."),
                         q("She ____ been studying before the power went.", "had", "has", "was", "did", "Use had been here."),
@@ -228,7 +232,7 @@ public final class TenseBank {
                         "وہ فارم میں تمہاری مدد کرے گی۔",
                         "وہ چھ بجے تک پہنچ جائیں گے۔",
                         "آج رات بارش ہو گی۔"),
-                list(
+                practice(
                         q("I ____ send the file this evening.", "will", "am", "did", "have", "A promise uses will."),
                         q("She ____ be twenty next month.", "will", "is", "was", "has", "A future fact uses will."),
                         q("They ____ not accept this excuse.", "will", "are", "did", "have", "Use will not for future negatives."),
@@ -250,7 +254,7 @@ public final class TenseBank {
                         "وہ اگلے ہفتے سفر کر رہی ہو گی۔",
                         "وہ ہمارا انتظار کر رہے ہوں گے۔",
                         "ہم ایک بجے کھانا کھا رہے ہوں گے۔"),
-                list(
+                practice(
                         q("At ten tomorrow I ____ the exam.", "will be writing", "will write", "wrote", "write", "In progress at a future time."),
                         q("They ____ be flying to Dubai this time next week.", "will", "are", "were", "have", "Use will be plus ing."),
                         q("She ____ be teaching when you arrive.", "will", "is", "was", "did", "Use will be for a future action in progress."),
@@ -272,7 +276,7 @@ public final class TenseBank {
                         "تمہارے پہنچنے سے پہلے وہ جا چکی ہو گی۔",
                         "وہ تب تک پل بنا چکے ہوں گے۔",
                         "ہم دسمبر تک کافی بچا چکے ہوں گے۔"),
-                list(
+                practice(
                         q("By next year I ____ this course.", "will have completed", "will complete", "completed", "complete", "Finished before a future point."),
                         q("She ____ have gone before we reach.", "will", "is", "was", "has", "Use will have here."),
                         q("They ____ have finished by noon.", "will", "are", "did", "have", "By noon signals future perfect."),
@@ -294,7 +298,7 @@ public final class TenseBank {
                         "وہ دو گھنٹے سے انتظار کر رہی ہو گی۔",
                         "وہ ایک دہائی سے یہاں رہ رہے ہوں گے۔",
                         "ہم ساری رات سفر کر رہے ہوں گے۔"),
-                list(
+                practice(
                         q("By next month I ____ working here for a year.", "will have been", "will be", "have been", "was", "Duration up to a future point."),
                         q("She will have ____ studying for six hours.", "been", "be", "being", "was", "Will have is followed by been."),
                         q("They ____ have been waiting since noon.", "will", "are", "did", "have", "Use will have been."),
