@@ -1,0 +1,2 @@
+-keep class com.saim.englishlearning.model.** { *; }
+-dontwarn javax.annotation.**

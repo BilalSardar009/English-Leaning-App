@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_header_gradient_warm"
+        android:orientation="vertical"
+        android:paddingStart="18dp"
+        android:paddingTop="22dp"
+        android:paddingEnd="18dp"
+        android:paddingBottom="22dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/buttonBack"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_level_badge"
+                android:contentDescription="@string/back"
+                android:padding="9dp"
+                android:src="@drawable/ic_back" />
+
+            <TextView
+                style="@style/ScreenTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="14dp"
+                android:layout_weight="1"
+                android:text="@string/word_of_day_title" />
+        </LinearLayout>
+    </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardDayWord"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="22dp"
+                    app:cardElevation="4dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="20dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/textDayLevel"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:background="@drawable/bg_pill_light"
+                                android:paddingStart="12dp"
+                                android:paddingTop="5dp"
+                                android:paddingEnd="12dp"
+                                android:paddingBottom="5dp"
+                                android:textColor="@color/text_secondary"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <ImageButton
+                                android:id="@+id/buttonSpeakDay"
+                                android:layout_width="44dp"
+                                android:layout_height="44dp"
+                                android:layout_marginStart="10dp"
+                                android:background="@drawable/bg_pill_light"
+                                android:contentDescription="@string/speak"
+                                android:padding="10dp"
+                                android:src="@drawable/ic_speaker" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/textDayWord"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="14dp"
+                            android:textColor="@color/text_primary"
+                            android:textSize="32sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textDayMeaning"
+                            style="@style/BodyText"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:textSize="17sp" />
+
+                        <TextView
+                            android:id="@+id/textDayUrdu"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:textColor="@color/brand_primary"
+                            android:textSize="18sp"
+                            android:visibility="gone" />
+
+                        <TextView
+                            android:id="@+id/textDayExample"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="16dp"
+                            android:background="@drawable/bg_example_row"
+                            android:padding="14dp"
+                            android:textColor="@color/text_secondary"
+                            android:textSize="15sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardDayPhrase"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="14dp"
+                    app:cardCornerRadius="22dp"
+                    app:cardElevation="4dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="20dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="@string/day_phrase_label"
+                                android:textColor="@color/text_secondary"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <ImageButton
+                                android:id="@+id/buttonSpeakDayPhrase"
+                                android:layout_width="44dp"
+                                android:layout_height="44dp"
+                                android:layout_marginStart="10dp"
+                                android:background="@drawable/bg_pill_light"
+                                android:contentDescription="@string/speak"
+                                android:padding="10dp"
+                                android:src="@drawable/ic_speaker" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/textDayPhrase"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:textColor="@color/text_primary"
+                            android:textSize="22sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textDayPhraseMeaning"
+                            style="@style/BodyText"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/textDayPhraseUrdu"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:textColor="@color/brand_primary"
+                            android:textSize="16sp"
+                            android:visibility="gone" />
+
+                        <TextView
+                            android:id="@+id/textDayPhraseExample"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="14dp"
+                            android:background="@drawable/bg_example_row"
+                            android:padding="14dp"
+                            android:textColor="@color/text_secondary"
+                            android:textSize="15sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/buttonLearnDay"
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginBottom="14dp"
+                    android:text="@string/learn_both"
+                    android:textAllCaps="false"
+                    android:textSize="16sp"
+                    app:cornerRadius="18dp" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <com.saim.englishlearning.util.ConfettiView
+        android:id="@+id/confetti"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:focusable="false" />
+</FrameLayout>
