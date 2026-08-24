@@ -23,6 +23,10 @@ public final class ExerciseGenerator {
     public static final int TYPE_IDIOM = 4;
     public static final int TYPE_PHRASAL = 5;
     public static final int TYPE_MIXED = 6;
+    /** Either direction between English and Urdu, chosen at random per question. */
+    public static final int TYPE_URDU_BOTH = 7;
+    /** Idioms and phrasal verbs together. */
+    public static final int TYPE_PHRASES = 8;
 
     private static final Random RANDOM = new Random();
 
@@ -37,14 +41,24 @@ public final class ExerciseGenerator {
             case TYPE_BLANK: return "Fill in the Blank";
             case TYPE_IDIOM: return "Idiom Meanings";
             case TYPE_PHRASAL: return "Phrasal Verbs";
+            case TYPE_URDU_BOTH: return "English and Urdu";
+            case TYPE_PHRASES: return "Idioms and Phrasal Verbs";
             default: return "Mixed Practice";
         }
     }
 
     public static List<QuizQuestion> generate(int level, int type, int count) {
         List<QuizQuestion> out = new ArrayList<>();
-        if (type == TYPE_MIXED) {
-            int[] pool = {TYPE_MEANING, TYPE_URDU, TYPE_URDU_TO_ENGLISH, TYPE_BLANK, TYPE_IDIOM, TYPE_PHRASAL};
+        if (type == TYPE_URDU_BOTH || type == TYPE_PHRASES || type == TYPE_MIXED) {
+            int[] pool;
+            if (type == TYPE_URDU_BOTH) {
+                pool = new int[]{TYPE_URDU, TYPE_URDU_TO_ENGLISH};
+            } else if (type == TYPE_PHRASES) {
+                pool = new int[]{TYPE_IDIOM, TYPE_PHRASAL};
+            } else {
+                pool = new int[]{TYPE_MEANING, TYPE_URDU, TYPE_URDU_TO_ENGLISH,
+                        TYPE_BLANK, TYPE_IDIOM, TYPE_PHRASAL};
+            }
             for (int i = 0; i < count; i++) {
                 int pick = pool[RANDOM.nextInt(pool.length)];
                 List<QuizQuestion> one = generate(level, pick, 1);

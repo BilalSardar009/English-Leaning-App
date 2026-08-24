@@ -5,22 +5,20 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
 import android.view.View;
-import android.widget.ImageView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.saim.englishlearning.data.ProgressManager;
 import com.saim.englishlearning.util.Anim;
-import com.saim.englishlearning.util.GifView;
+import com.saim.englishlearning.util.BouncingTextView;
 
 /**
- * Opening screen. It plays res/raw/splash.gif, then hands over to onboarding on a
- * first run or to the dashboard afterwards. If the GIF cannot be decoded the
- * mascot is shown instead, so the app always starts.
+ * Opening screen: the app name bounces letter by letter, then it hands over to
+ * onboarding on a first run or to the dashboard afterwards. Tapping skips it.
  */
 public class SplashActivity extends AppCompatActivity {
 
-    private static final long SPLASH_MILLIS = 2400L;
+    private static final long SPLASH_MILLIS = 2200L;
 
     private final Handler handler = new Handler(Looper.getMainLooper());
     private boolean moved;
@@ -30,18 +28,14 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        GifView gif = findViewById(R.id.gifSplash);
-        ImageView fallback = findViewById(R.id.imageSplashFallback);
+        BouncingTextView name = findViewById(R.id.textSplashName);
+        name.setText(getString(R.string.app_name));
+        name.start();
 
-        gif.setGifResource(R.raw.splash);
-        if (gif.hasFailed()) {
-            gif.setVisibility(View.GONE);
-            fallback.setVisibility(View.VISIBLE);
-            Anim.pulse(fallback);
-        }
-
-        Anim.enter(findViewById(R.id.textSplashName), 200);
-        Anim.enter(findViewById(R.id.textSplashTagline), 420);
+        View logo = findViewById(R.id.imageSplashLogo);
+        Anim.enter(logo, 0);
+        Anim.pulse(logo);
+        Anim.enter(findViewById(R.id.textSplashTagline), 500);
 
         handler.postDelayed(new Runnable() {
             @Override
@@ -50,7 +44,6 @@ public class SplashActivity extends AppCompatActivity {
             }
         }, SPLASH_MILLIS);
 
-        // Let an impatient learner skip straight through.
         findViewById(R.id.layoutSplashRoot).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

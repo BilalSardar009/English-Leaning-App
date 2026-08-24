@@ -40,19 +40,16 @@
         <activity android:name=".LessonActivity" android:exported="false" />
         <activity android:name=".PracticeActivity" android:exported="false" />
         <activity android:name=".ExerciseActivity" android:exported="false" />
+        <activity android:name=".SentenceTopicsActivity" android:exported="false" />
         <activity android:name=".SentenceBuilderActivity" android:exported="false" />
-        <activity android:name=".PhrasesActivity" android:exported="false" />
         <activity android:name=".TensesActivity" android:exported="false" />
         <activity android:name=".TenseDetailActivity" android:exported="false" />
         <activity android:name=".FlashcardActivity" android:exported="false" />
         <activity android:name=".DictionaryActivity" android:exported="false" />
-        <activity android:name=".FavoritesActivity" android:exported="false" />
-        <activity android:name=".WordOfDayActivity" android:exported="false" />
         <activity android:name=".AchievementsActivity" android:exported="false" />
         <activity android:name=".TranslatorActivity" android:exported="false" />
         <activity android:name=".SettingsActivity" android:exported="false" />
 
-        <activity android:name=".game.GamesActivity" android:exported="false" />
         <activity android:name=".game.WordMatchActivity" android:exported="false" />
         <activity android:name=".game.SpellingBeeActivity" android:exported="false" />
         <activity android:name=".game.ScrambleActivity" android:exported="false" />

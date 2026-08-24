@@ -30,24 +30,18 @@
     <string name="tour_next">Next</string>
     <string name="tour_finish">Let\'s go!</string>
     <string name="tour_skip">Skip</string>
-    <string name="tour1_title">Meet your guide</string>
-    <string name="tour1_body">Hello! I am your study buddy. This short tour shows you everything in the app. It takes less than a minute.</string>
-    <string name="tour2_title">Lessons in small pieces</string>
-    <string name="tour2_body">Your level is split into small units of ten words. Read the word, hear it, then tap the badge to mark it learned. Ten words a day adds up fast.</string>
-    <string name="tour3_title">Seven kinds of practice</string>
-    <string name="tour3_body">Meanings, English to Urdu, Urdu to English, fill in the blank, idioms, phrasal verbs and a mixed round. The questions are made fresh every time, so they never run out.</string>
-    <string name="tour4_title">Five games</string>
-    <string name="tour4_body">Word Match, Spelling Bee, Sentence Scramble, the 60 second Speed Round and Odd One Out. Same learning, much more fun.</string>
-    <string name="tour5_title">All twelve tenses</string>
-    <string name="tour5_body">Each tense has a formula, real examples you can listen to, and its own practice set with a progress bar. Learn it, then prove it.</string>
-    <string name="tour6_title">Two ways to say it</string>
-    <string name="tour6_body">In Sentences, every Urdu line comes with a simple English version and an advanced one, so you can see how a fluent speaker would say the same thing.</string>
-    <string name="tour7_title">Translate anything</string>
-    <string name="tour7_body">Type any Urdu or English sentence and get a natural translation, a real explanation and the tense it uses. Add a free AI key in Settings for the best results.</string>
-    <string name="tour8_title">Streaks and rewards</string>
-    <string name="tour8_body">Open the app daily to build a streak, earn XP, climb ranks and unlock nineteen achievements. Confetti included.</string>
-    <string name="tour9_title">Make it yours</string>
-    <string name="tour9_body">Settings holds your level, the Urdu toggle, animations, your daily reminder time and the AI key. You can replay this tour any time from there.</string>
+    <string name="tour1_title">Welcome!</string>
+    <string name="tour1_body">This quick tour shows you the six things in the app. It takes about thirty seconds.</string>
+    <string name="tour2_title">Lessons</string>
+    <string name="tour2_body">Your level is split into small units of ten words. Read it, hear it, tap to mark it learned. Flashcards live here too.</string>
+    <string name="tour3_title">Practice</string>
+    <string name="tour3_body">Quiz rounds and five games in one place. The questions are built fresh every time, so they never run out.</string>
+    <string name="tour4_title">Sentences by place</string>
+    <string name="tour4_body">Home, classroom, market, doctor, travel and more. Every line comes in simple English and advanced English, so you can see both ways to say it.</string>
+    <string name="tour5_title">Tenses</string>
+    <string name="tour5_body">All twelve, each with a formula, spoken examples and its own practice.</string>
+    <string name="tour6_title">Look up and translate</string>
+    <string name="tour6_body">The dictionary holds words, idioms, phrasal verbs and your saved words. The translator handles any sentence you type. Open the app daily to build a streak.</string>
 
     <!-- main dashboard -->
     <string name="greeting_plain">Welcome back!</string>
@@ -58,20 +52,12 @@
     <string name="rank_caption">to next rank</string>
     <string name="library_counts">%1$d words · %2$d phrases · %3$d sentences</string>
     <string name="achievement_unlocked">Achievement unlocked: %1$s</string>
-    <string name="section_learn">Learn</string>
-    <string name="section_practise">Practise</string>
-    <string name="section_tools">Tools</string>
     <string name="tile_lessons">Lessons</string>
     <string name="tile_practice">Practice</string>
-    <string name="tile_games">Games</string>
     <string name="tile_tenses">Tenses</string>
     <string name="tile_sentences">Sentences</string>
-    <string name="tile_phrases">Idioms</string>
-    <string name="tile_flashcards">Flashcards</string>
     <string name="tile_dictionary">Dictionary</string>
     <string name="tile_translator">Translator</string>
-    <string name="tile_favourites">Favourites</string>
-    <string name="tile_achievements">Rewards</string>
     <string name="settings">Settings</string>
     <string name="word_of_day_label">Word of the day</string>
 
@@ -93,16 +79,22 @@
     <string name="best_score">Best: %1$d</string>
     <string name="practice_meaning">Word Meanings</string>
     <string name="practice_meaning_sub">Choose what the English word means</string>
-    <string name="practice_urdu">English to Urdu</string>
-    <string name="practice_urdu_sub">Pick the correct Urdu translation</string>
-    <string name="practice_urdu_english">Urdu to English</string>
-    <string name="practice_urdu_english_sub">Pick the English word for the Urdu</string>
     <string name="practice_blank">Fill in the Blank</string>
     <string name="practice_blank_sub">Complete the sentence with the right word</string>
-    <string name="practice_idiom">Idiom Meanings</string>
-    <string name="practice_idiom_sub">What does the idiom really mean?</string>
-    <string name="practice_phrasal">Phrasal Verbs</string>
-    <string name="practice_phrasal_sub">Get up, put off, carry on and many more</string>
+    <string name="practice_urdu_both">English and Urdu</string>
+    <string name="practice_urdu_both_sub">Both directions, mixed together</string>
+    <string name="practice_phrases">Idioms and Phrasal Verbs</string>
+    <string name="practice_phrases_sub">What the real meaning is</string>
+    <string name="section_quizzes">Quiz rounds</string>
+    <string name="section_games">Games</string>
+    <string name="tab_words">Words</string>
+    <string name="tab_idioms">Idioms</string>
+    <string name="tab_phrasals">Phrasal</string>
+    <string name="tab_saved">★ Saved</string>
+    <string name="see_rewards">See rewards →</string>
+    <string name="wotd_tap">Tap to learn it</string>
+    <string name="open_flashcards">Flashcards for this level</string>
+    <string name="topics_sub">%1$d sentences, grouped by where you use them</string>
     <string name="practice_mixed">Mixed Round</string>
     <string name="practice_mixed_sub">A little of everything</string>
 
@@ -135,12 +127,6 @@
     <string name="sentences_hint">Try it in your head first, then reveal.</string>
 
     <!-- phrases -->
-    <string name="phrases_title">Idioms &amp; Phrasal Verbs</string>
-    <string name="phrases_idioms">Idioms</string>
-    <string name="phrases_phrasals">Phrasal Verbs</string>
-    <string name="phrase_search_hint">Search a phrase or its meaning</string>
-    <string name="phrase_count">%1$d phrases</string>
-    <string name="phrase_empty">Nothing matched that search.</string>
 
     <!-- tenses -->
     <string name="tenses_title">All Twelve Tenses</string>
@@ -171,15 +157,9 @@
     <string name="dictionary_empty">No word matched. Try a shorter search.</string>
 
     <!-- favourites -->
-    <string name="favourites_title">Favourites</string>
-    <string name="favourites_count">%1$d saved words</string>
     <string name="favourites_empty">Tap the star on any word to save it here.</string>
 
     <!-- word of the day -->
-    <string name="word_of_day_title">Today\'s Pick</string>
-    <string name="day_phrase_label">Phrase of the day</string>
-    <string name="learn_both">Mark both as learned</string>
-    <string name="marked_learned">Added to your learned list ✓</string>
 
     <!-- achievements -->
     <string name="achievements_title">Rewards</string>
@@ -188,9 +168,6 @@
     <string name="achievement_done">Unlocked</string>
 
     <!-- games -->
-    <string name="games_title">Games</string>
-    <string name="games_sub">Learning that does not feel like studying.</string>
-    <string name="game_best">Best: %1$d</string>
     <string name="game_match">Word Match</string>
     <string name="game_match_sub">Pair each word with its meaning before the board clears</string>
     <string name="game_spelling">Spelling Bee</string>
@@ -211,7 +188,6 @@
     <string name="spelling_counter">Word %1$d of %2$d</string>
     <string name="spelling_score">Score %1$d</string>
     <string name="spelling_right">Correct! +%1$d</string>
-    <string name="spelling_wrong">It was \"%1$s\"</string>
     <string name="spelling_hear">Hear it</string>
     <string name="spelling_hear_slow">Slowly</string>
     <string name="spelling_reveal">Reveal the next letter</string>

@@ -90,12 +90,9 @@ public class TourActivity extends AppCompatActivity {
         pages.add(new Page("🦉", getString(R.string.tour1_title), getString(R.string.tour1_body)));
         pages.add(new Page("📚", getString(R.string.tour2_title), getString(R.string.tour2_body)));
         pages.add(new Page("✏️", getString(R.string.tour3_title), getString(R.string.tour3_body)));
-        pages.add(new Page("🎮", getString(R.string.tour4_title), getString(R.string.tour4_body)));
+        pages.add(new Page("💬", getString(R.string.tour4_title), getString(R.string.tour4_body)));
         pages.add(new Page("⏳", getString(R.string.tour5_title), getString(R.string.tour5_body)));
-        pages.add(new Page("🧩", getString(R.string.tour6_title), getString(R.string.tour6_body)));
-        pages.add(new Page("🌐", getString(R.string.tour7_title), getString(R.string.tour7_body)));
-        pages.add(new Page("🔥", getString(R.string.tour8_title), getString(R.string.tour8_body)));
-        pages.add(new Page("⚙️", getString(R.string.tour9_title), getString(R.string.tour9_body)));
+        pages.add(new Page("🌐", getString(R.string.tour6_title), getString(R.string.tour6_body)));
     }
 
     private void buildDots() {

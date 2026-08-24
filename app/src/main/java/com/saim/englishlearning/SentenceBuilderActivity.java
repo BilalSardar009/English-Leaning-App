@@ -25,7 +25,10 @@ import java.util.List;
  */
 public class SentenceBuilderActivity extends AppCompatActivity {
 
+    public static final String EXTRA_TOPIC = "topic";
+
     private ProgressManager progress;
+    private String topicKey;
     private Speaker speaker;
 
     private final List<SentencePair> pairs = new ArrayList<>();
@@ -108,7 +111,13 @@ public class SentenceBuilderActivity extends AppCompatActivity {
             }
         });
 
-        pairs.addAll(SentenceBank.upToLevel(progress.getLevel()));
+        topicKey = getIntent().getStringExtra(EXTRA_TOPIC);
+        if (topicKey == null) topicKey = SentenceBank.topics().get(0).key;
+        SentenceBank.Topic topic = SentenceBank.topic(topicKey);
+        ((TextView) findViewById(R.id.textSentenceTitle))
+                .setText(topic.emoji + "  " + topic.title);
+
+        pairs.addAll(SentenceBank.byTopic(topicKey, progress.getLevel()));
         Collections.shuffle(pairs);
         show();
     }

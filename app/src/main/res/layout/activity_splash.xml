@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/layoutSplashRoot"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,37 +8,26 @@
     android:focusable="true"
     android:gravity="center"
     android:orientation="vertical"
-    android:padding="32dp">
-
-    <com.saim.englishlearning.util.GifView
-        android:id="@+id/gifSplash"
-        android:layout_width="220dp"
-        android:layout_height="220dp" />
+    android:padding="28dp">
 
     <ImageView
-        android:id="@+id/imageSplashFallback"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:id="@+id/imageSplashLogo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:contentDescription="@string/app_name"
-        android:src="@drawable/ic_owl"
-        android:visibility="gone" />
+        android:src="@drawable/ic_owl" />
 
-    <TextView
+    <com.saim.englishlearning.util.BouncingTextView
         android:id="@+id/textSplashName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="26dp"
-        android:gravity="center"
-        android:text="@string/app_name"
-        android:textColor="@color/white"
-        android:textSize="30sp"
-        android:textStyle="bold" />
+        android:layout_marginTop="22dp" />
 
     <TextView
         android:id="@+id/textSplashTagline"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="6dp"
         android:gravity="center"
         android:text="@string/splash_tagline"
         android:textColor="#DDFFFFFF"

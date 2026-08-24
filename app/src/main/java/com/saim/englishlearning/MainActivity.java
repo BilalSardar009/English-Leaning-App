@@ -5,6 +5,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -14,12 +15,12 @@ import com.saim.englishlearning.data.PhraseBank;
 import com.saim.englishlearning.data.ProgressManager;
 import com.saim.englishlearning.data.SentenceBank;
 import com.saim.englishlearning.data.WordBank;
-import com.saim.englishlearning.game.GamesActivity;
 import com.saim.englishlearning.model.Word;
 import com.saim.englishlearning.notifications.ReminderScheduler;
 import com.saim.englishlearning.util.Anim;
 import com.saim.englishlearning.util.ConfettiView;
 import com.saim.englishlearning.util.RingProgressView;
+import com.saim.englishlearning.util.Speaker;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,6 +28,8 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
     private ProgressManager progress;
+    private Speaker speaker;
+
     private TextView greeting;
     private TextView subGreeting;
     private TextView streakText;
@@ -34,8 +37,11 @@ public class MainActivity extends AppCompatActivity {
     private TextView wordOfDayWord;
     private TextView wordOfDayMeaning;
     private TextView wordOfDayUrdu;
+    private TextView wordOfDayHint;
     private RingProgressView rankRing;
     private ConfettiView confetti;
+
+    private Word todaysWord;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         setContentView(R.layout.activity_main);
+        speaker = new Speaker(this);
 
         greeting = findViewById(R.id.textGreeting);
         subGreeting = findViewById(R.id.textSubGreeting);
@@ -59,20 +66,32 @@ public class MainActivity extends AppCompatActivity {
         wordOfDayWord = findViewById(R.id.textWotdWord);
         wordOfDayMeaning = findViewById(R.id.textWotdMeaning);
         wordOfDayUrdu = findViewById(R.id.textWotdUrdu);
+        wordOfDayHint = findViewById(R.id.textWotdHint);
 
         wire(R.id.cardLessons, LessonListActivity.class);
         wire(R.id.cardPractice, PracticeActivity.class);
-        wire(R.id.cardGames, GamesActivity.class);
+        wire(R.id.cardSentences, SentenceTopicsActivity.class);
         wire(R.id.cardTenses, TensesActivity.class);
-        wire(R.id.cardSentences, SentenceBuilderActivity.class);
-        wire(R.id.cardPhrases, PhrasesActivity.class);
-        wire(R.id.cardFlashcards, FlashcardActivity.class);
         wire(R.id.cardDictionary, DictionaryActivity.class);
         wire(R.id.cardTranslator, TranslatorActivity.class);
-        wire(R.id.cardFavourites, FavoritesActivity.class);
-        wire(R.id.cardAchievements, AchievementsActivity.class);
-        wire(R.id.cardWordOfDay, WordOfDayActivity.class);
+        wire(R.id.rowRewards, AchievementsActivity.class);
         wire(R.id.buttonSettings, SettingsActivity.class);
+
+        // The word of the day is learned right here, so it needs no screen of its own.
+        findViewById(R.id.cardWordOfDay).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                learnWordOfDay(v);
+            }
+        });
+
+        findViewById(R.id.buttonSpeakWotd).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Anim.pop(v);
+                if (todaysWord != null) speaker.say(todaysWord.word + ". " + todaysWord.example);
+            }
+        });
 
         requestNotificationPermission();
         ReminderScheduler.sync(this);
@@ -101,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
         if (!progress.isOnboarded()) return;
         boolean streakGrew = progress.touchStreak();
         refresh();
-        celebrateNewAchievements(streakGrew);
+        celebrate(streakGrew);
     }
 
     private void refresh() {
@@ -110,10 +129,9 @@ public class MainActivity extends AppCompatActivity {
                 ? getString(R.string.greeting_plain)
                 : getString(R.string.greeting_named, name));
 
-        int learned = progress.getLearnedCount();
-        int total = Math.max(1, WordBank.size());
-        subGreeting.setText(getString(R.string.greeting_sub, learned, total,
-                com.saim.englishlearning.model.Word.levelName(progress.getLevel())));
+        subGreeting.setText(getString(R.string.greeting_sub,
+                progress.getLearnedCount(), Math.max(1, WordBank.size()),
+                Word.levelName(progress.getLevel())));
 
         streakText.setText(getString(R.string.stat_streak, progress.getStreak()));
         Anim.countUp(xpText, 0, progress.getXp(), " XP");
@@ -122,40 +140,55 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.rank_short, progress.getRank()));
         rankRing.setCaption(getString(R.string.rank_caption));
 
-        Word word = WordBank.wordOfTheDay();
-        if (word != null) {
-            wordOfDayWord.setText(word.word);
-            wordOfDayMeaning.setText(word.meaning);
+        todaysWord = WordBank.wordOfTheDay();
+        if (todaysWord != null) {
+            wordOfDayWord.setText(todaysWord.word);
+            wordOfDayMeaning.setText(todaysWord.meaning);
             if (progress.isUrduEnabled()) {
                 wordOfDayUrdu.setVisibility(View.VISIBLE);
-                wordOfDayUrdu.setText(word.urdu);
+                wordOfDayUrdu.setText(todaysWord.urdu);
             } else {
                 wordOfDayUrdu.setVisibility(View.GONE);
             }
+            boolean learned = progress.isLearned(todaysWord.id);
+            wordOfDayHint.setText(learned ? R.string.badge_learned : R.string.wotd_tap);
+            wordOfDayHint.setBackgroundResource(learned
+                    ? R.drawable.bg_badge_done : R.drawable.bg_badge_todo);
         }
 
-        TextView counts = findViewById(R.id.textLibraryCounts);
-        counts.setText(getString(R.string.library_counts,
+        ((TextView) findViewById(R.id.textLibraryCounts)).setText(getString(R.string.library_counts,
                 WordBank.size(), PhraseBank.size(), SentenceBank.size()));
 
         if (progress.areAnimationsEnabled()) {
-            Anim.enterAll(55,
+            Anim.enterAll(60,
                     findViewById(R.id.cardHeader),
                     findViewById(R.id.cardWordOfDay),
-                    findViewById(R.id.gridTop),
-                    findViewById(R.id.gridMiddle),
-                    findViewById(R.id.gridBottom));
+                    findViewById(R.id.gridTiles));
         }
     }
 
-    private void celebrateNewAchievements(boolean streakGrew) {
+    private void learnWordOfDay(View card) {
+        if (todaysWord == null) return;
+        progress.recordWordOfDay();
+        if (!progress.isLearned(todaysWord.id)) {
+            progress.markLearned(todaysWord.id);
+            wordOfDayHint.setText(R.string.badge_learned);
+            wordOfDayHint.setBackgroundResource(R.drawable.bg_badge_done);
+            Anim.pop(card);
+            if (progress.areAnimationsEnabled()) confetti.burst(40);
+            speaker.say(todaysWord.word);
+        } else {
+            speaker.say(todaysWord.word + ". " + todaysWord.example);
+        }
+    }
+
+    private void celebrate(boolean streakGrew) {
         List<String> unlocked = new ArrayList<>();
         progress.buildAchievements(unlocked);
         if (!unlocked.isEmpty() && progress.areAnimationsEnabled()) {
             confetti.burst();
-            android.widget.Toast.makeText(this,
-                    getString(R.string.achievement_unlocked, unlocked.get(0)),
-                    android.widget.Toast.LENGTH_LONG).show();
+            Toast.makeText(this, getString(R.string.achievement_unlocked, unlocked.get(0)),
+                    Toast.LENGTH_LONG).show();
         } else if (streakGrew && progress.getStreak() > 1 && progress.areAnimationsEnabled()) {
             confetti.burst(45);
         }
@@ -174,8 +207,12 @@ public class MainActivity extends AppCompatActivity {
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions,
                                            @NonNull int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
-        if (requestCode == 91) {
-            ReminderScheduler.sync(this);
-        }
+        if (requestCode == 91) ReminderScheduler.sync(this);
+    }
+
+    @Override
+    protected void onDestroy() {
+        if (speaker != null) speaker.shutdown();
+        super.onDestroy();
     }
 }

@@ -1,301 +1,599 @@
-1|مجھے پانی چاہیے۔|I want water.|I would like some water, please.
-1|میرا نام علی ہے۔|My name is Ali.|I go by the name of Ali.
-1|آپ کیسے ہیں؟|How are you?|How have you been keeping?
-1|میں ٹھیک ہوں، شکریہ۔|I am fine, thank you.|I am quite well, thank you for asking.
-1|یہ میری کتاب ہے۔|This is my book.|This book belongs to me.
-1|وہ سکول جا رہا ہے۔|He is going to school.|He is on his way to school.
-1|مجھے بھوک لگی ہے۔|I am hungry.|I could do with something to eat.
-1|آج موسم اچھا ہے۔|The weather is good today.|We are having pleasant weather today.
-1|براہ کرم دروازہ بند کریں۔|Please close the door.|Would you mind closing the door?
-1|میں سمجھ نہیں سکا۔|I did not understand.|I am afraid that did not quite register with me.
-1|کیا آپ میری مدد کریں گے؟|Will you help me?|Would you be kind enough to help me?
-1|یہ کتنے کا ہے؟|How much is this?|What does this cost?
-1|مجھے دیر ہو گئی ہے۔|I am late.|I am running behind schedule.
-1|میں کل آؤں گا۔|I will come tomorrow.|I shall drop by tomorrow.
-1|وہ بہت اچھا لڑکا ہے۔|He is a very good boy.|He is a thoroughly decent young man.
-1|میرے پاس وقت نہیں ہے۔|I do not have time.|I am rather pressed for time.
-1|یہ کام مشکل ہے۔|This work is hard.|This task is quite demanding.
-1|مجھے یہ پسند ہے۔|I like this.|This appeals to me a great deal.
-1|وہ گھر پر نہیں ہے۔|He is not at home.|He is out at the moment.
-1|میں انگریزی سیکھ رہا ہوں۔|I am learning English.|I am currently studying English.
-1|براہ کرم آہستہ بولیں۔|Please speak slowly.|Could you speak a little more slowly, please?
-1|میں تھک گیا ہوں۔|I am tired.|I am feeling rather worn out.
-1|کھانا تیار ہے۔|The food is ready.|The meal has been served.
-1|مجھے معاف کر دیں۔|Forgive me.|I do apologise for that.
-1|یہ بہت مہنگا ہے۔|This is very expensive.|This is rather beyond my budget.
-1|میں یہاں نیا ہوں۔|I am new here.|I am new to this place.
-1|وہ کتاب پڑھ رہی ہے۔|She is reading a book.|She is engrossed in a book.
-1|میرا بھائی ڈاکٹر ہے۔|My brother is a doctor.|My brother practises medicine.
-1|بارش ہو رہی ہے۔|It is raining.|We are having a spell of rain.
-1|مجھے نیند آ رہی ہے۔|I am feeling sleepy.|I can barely keep my eyes open.
-1|یہ راستہ بند ہے۔|This road is closed.|This route is currently blocked.
-1|میں پانی پینا چاہتا ہوں۔|I want to drink water.|I would appreciate a glass of water.
-1|آپ کہاں رہتے ہیں؟|Where do you live?|Whereabouts are you based?
-1|میں لاہور سے ہوں۔|I am from Lahore.|I hail from Lahore.
-1|وہ بہت تیز چلتا ہے۔|He walks very fast.|He walks at a brisk pace.
-1|میرے پاس پیسے نہیں ہیں۔|I have no money.|I am a little short of cash.
-1|یہ میرا پہلا دن ہے۔|This is my first day.|This marks my first day here.
-1|براہ کرم انتظار کریں۔|Please wait.|Kindly bear with me for a moment.
-1|میں نے کھانا کھا لیا۔|I have eaten.|I have already had my meal.
-1|وہ اچھی طرح گاتی ہے۔|She sings well.|She has a lovely singing voice.
-1|مجھے سردی لگ رہی ہے۔|I am feeling cold.|I am feeling rather chilly.
-1|کیا آپ مجھے سن سکتے ہیں؟|Can you hear me?|Am I coming through clearly?
-1|یہ آسان سوال ہے۔|This is an easy question.|This is a fairly straightforward question.
-1|میں روز ورزش کرتا ہوں۔|I exercise every day.|I work out on a daily basis.
-1|وہ میرا دوست ہے۔|He is my friend.|He is a close friend of mine.
-1|دکان بند ہو گئی ہے۔|The shop has closed.|The shop has shut for the day.
-1|مجھے جانا ہے۔|I have to go.|I really must be off.
-1|آپ کا شکریہ۔|Thank you.|I am most grateful to you.
-1|کوئی بات نہیں۔|It is nothing.|Please do not mention it.
-1|میں کوشش کروں گا۔|I will try.|I shall do my best.
-1|وہ ابھی سو رہا ہے۔|He is sleeping now.|He is asleep at present.
-1|یہ میرا گھر ہے۔|This is my house.|This is where I live.
-1|کھڑکی کھول دیں۔|Open the window.|Would you open the window for me?
-1|مجھے چائے پسند ہے۔|I like tea.|I am rather fond of tea.
-1|بچے کھیل رہے ہیں۔|The children are playing.|The children are at play outside.
-1|میں کام کر رہا ہوں۔|I am working.|I am in the middle of some work.
-1|آج چھٹی ہے۔|Today is a holiday.|Today happens to be a day off.
-1|وہ بہت خوش ہے۔|He is very happy.|He is absolutely delighted.
-1|مجھے راستہ نہیں معلوم۔|I do not know the way.|I am unfamiliar with this route.
-1|براہ کرم بیٹھ جائیں۔|Please sit down.|Do take a seat.
-2|مجھے آپ سے ایک بات کہنی ہے۔|I want to tell you something.|There is a matter I would like to raise with you.
-2|یہ مسئلہ حل ہو گیا ہے۔|This problem is solved.|The issue has been resolved satisfactorily.
-2|مجھے آپ کی رائے چاہیے۔|I need your opinion.|I would value your input on this.
-2|وہ اپنے کام میں بہت محنتی ہے۔|He works very hard.|He is remarkably diligent in his work.
-2|ہمیں جلد فیصلہ کرنا ہو گا۔|We must decide soon.|We shall need to reach a decision shortly.
-2|میں اس بات سے اتفاق نہیں کرتا۔|I do not agree with this.|I am afraid I take a different view on that.
-2|یہ منصوبہ کامیاب ہو گا۔|This plan will succeed.|I am confident this plan will bear fruit.
-2|مجھے تھوڑا وقت دیں۔|Give me a little time.|I would appreciate a little more time.
-2|اس نے میری بہت مدد کی۔|He helped me a lot.|He went out of his way to assist me.
-2|قیمتیں بہت بڑھ گئی ہیں۔|Prices have gone up a lot.|Prices have risen sharply of late.
-2|مجھے اس کا افسوس ہے۔|I am sorry about that.|I deeply regret that.
-2|یہ بات درست نہیں ہے۔|This is not correct.|That statement is not entirely accurate.
-2|ہم اس پر بعد میں بات کریں گے۔|We will talk about it later.|We can revisit this matter at a later stage.
-2|اس نے وعدہ پورا کیا۔|He kept his promise.|He honoured his commitment.
-2|مجھے یہ کام آج ختم کرنا ہے۔|I must finish this work today.|I need to wrap this up by the end of the day.
-2|آپ کی محنت رنگ لائی۔|Your hard work paid off.|Your efforts have finally borne fruit.
-2|یہ ایک اچھا موقع ہے۔|This is a good opportunity.|This represents an excellent opportunity.
-2|میں نے پوری کوشش کی۔|I tried my best.|I left no stone unturned.
-2|وہ ہمیشہ سچ بولتا ہے۔|He always speaks the truth.|He is unfailingly honest.
-2|اس کام میں خطرہ ہے۔|There is risk in this work.|This undertaking carries a degree of risk.
-2|مجھے آپ پر بھروسہ ہے۔|I trust you.|I have complete faith in you.
-2|ہمیں مل کر کام کرنا چاہیے۔|We should work together.|We would do well to join forces.
-2|یہ فیصلہ آسان نہیں تھا۔|This decision was not easy.|Reaching this decision was far from simple.
-2|اس نے اپنی غلطی مان لی۔|He admitted his mistake.|He readily acknowledged his error.
-2|مجھے اس کی ضرورت نہیں۔|I do not need this.|I have no particular use for this.
-2|وقت بہت تیزی سے گزرتا ہے۔|Time passes very quickly.|Time has a way of slipping by.
-2|یہ کتاب پڑھنے کے قابل ہے۔|This book is worth reading.|This book certainly merits your attention.
-2|اس نے میری بات نہیں سنی۔|He did not listen to me.|He paid no heed to what I said.
-2|ہم نے بہت کچھ سیکھا۔|We learned a lot.|We gained a great deal from the experience.
-2|مجھے اس بارے میں سوچنا ہو گا۔|I will have to think about it.|I shall need to give that some thought.
-2|یہ صورتحال بہتر ہو رہی ہے۔|This situation is improving.|Conditions are gradually improving.
-2|اس نے بغیر کہے کام کر دیا۔|He did the work without being told.|He took the initiative without being asked.
-2|مجھے آپ کی بات سمجھ آ گئی۔|I understood your point.|I take your point entirely.
-2|یہ ایک سنگین مسئلہ ہے۔|This is a serious problem.|This is a matter of grave concern.
-2|ہمیں صبر سے کام لینا چاہیے۔|We should be patient.|Patience would serve us better here.
-2|اس نے سب کو حیران کر دیا۔|He surprised everyone.|He took everyone completely by surprise.
-2|میں آپ کا مشکور ہوں۔|I am thankful to you.|I am deeply indebted to you.
-2|یہ بات قابل غور ہے۔|This point deserves thought.|This is a point worth considering carefully.
-2|اس کا رویہ بدل گیا ہے۔|His behaviour has changed.|There has been a marked change in his attitude.
-2|ہمیں نئے طریقے آزمانے چاہئیں۔|We should try new methods.|We ought to explore fresh approaches.
-2|مجھے یقین ہے کہ وہ آئے گا۔|I am sure he will come.|I have every confidence that he will turn up.
-2|یہ کام وقت پر مکمل ہونا چاہیے۔|This work should finish on time.|This assignment must be completed within the deadline.
-2|اس نے بہت ترقی کی ہے۔|He has progressed a lot.|He has come on remarkably well.
-2|مجھے اس پر اعتراض ہے۔|I object to this.|I must register an objection to that.
-2|ہمیں اپنی غلطیوں سے سیکھنا چاہیے۔|We should learn from our mistakes.|We would be wise to learn from our missteps.
-2|یہ بات راز میں رکھیں۔|Keep this a secret.|I would ask you to treat this in confidence.
-2|اس کی صحت بہتر ہو رہی ہے۔|His health is improving.|He is well on the road to recovery.
-2|مجھے اس کام کا تجربہ ہے۔|I have experience of this work.|I have a fair amount of experience in this field.
-2|یہ ایک معمولی بات ہے۔|This is a small matter.|This is hardly worth troubling over.
-2|ہم نے سب کچھ آزما لیا۔|We tried everything.|We have exhausted every available option.
-2|اس نے میری توقع سے بڑھ کر کیا۔|He did more than I expected.|He surpassed my expectations entirely.
-2|مجھے جلدی نہیں ہے۔|I am not in a hurry.|There is no particular rush on my part.
-2|یہ منصوبہ بہت مہنگا ہے۔|This plan is very expensive.|This proposal is prohibitively costly.
-2|اس نے آخر تک ہار نہیں مانی۔|He did not give up until the end.|He refused to concede defeat right to the last.
-2|ہمیں دوسروں کا خیال رکھنا چاہیے۔|We should care for others.|We ought to be mindful of those around us.
-2|یہ بات مجھے پریشان کر رہی ہے۔|This is worrying me.|This matter is preying on my mind.
-2|اس نے صاف انکار کر دیا۔|He clearly refused.|He turned it down flatly.
-2|مجھے آپ سے ملنا ہے۔|I want to meet you.|I would like to arrange a meeting with you.
-2|یہ نتیجہ حیران کن ہے۔|This result is surprising.|This outcome is genuinely remarkable.
-2|ہمیں فوری کارروائی کرنی ہو گی۔|We must act at once.|Immediate action is called for.
-3|اس نے اپنی رائے مضبوط دلائل سے پیش کی۔|He gave his opinion with strong reasons.|He advanced his position with a compelling body of argument.
-3|یہ فیصلہ حالات کے پیش نظر کیا گیا۔|This decision was made because of the situation.|The decision was taken in light of prevailing circumstances.
-3|اس کا موقف اصولوں پر مبنی تھا۔|His position was based on principles.|His stance was grounded in a coherent set of principles.
-3|ہمیں اس معاملے کا گہرا تجزیہ کرنا چاہیے۔|We should study this matter deeply.|This matter warrants a rigorous and systematic analysis.
-3|یہ تبدیلی بتدریج آئی ہے۔|This change came slowly.|The transformation has been incremental rather than abrupt.
-3|اس کے دلائل میں تضاد تھا۔|There was a contradiction in his arguments.|His reasoning suffered from an internal inconsistency.
-3|ہم اس نتیجے پر پہنچے ہیں۔|We have reached this conclusion.|We have arrived at the following conclusion.
-3|اس مسئلے کے کئی پہلو ہیں۔|This problem has many sides.|This issue presents a number of distinct dimensions.
-3|اس نے حقائق کو توڑ مروڑ کر پیش کیا۔|He presented the facts wrongly.|He misrepresented the facts to suit his case.
-3|یہ رجحان تشویشناک ہے۔|This trend is worrying.|This trend is a source of considerable concern.
-3|ہمیں شواہد کی روشنی میں فیصلہ کرنا چاہیے۔|We should decide after looking at proof.|Our judgement should rest firmly on the available evidence.
-3|اس کی کارکردگی مسلسل بہتر ہو رہی ہے۔|His performance keeps getting better.|His performance shows a sustained upward trajectory.
-3|یہ اقدام دور رس نتائج کا حامل ہے۔|This step will have big results.|This measure carries far-reaching implications.
-3|اس نے تنقید کو خندہ پیشانی سے قبول کیا۔|He accepted criticism happily.|He received the criticism with admirable grace.
-3|مسئلے کی جڑ کہیں اور ہے۔|The real cause is somewhere else.|The root of the problem lies elsewhere entirely.
-3|ہمیں توازن برقرار رکھنا ہو گا۔|We must keep a balance.|We shall have to strike a careful balance.
-3|یہ دعویٰ ثبوت کا محتاج ہے۔|This claim needs proof.|This assertion remains unsubstantiated.
-3|اس نے معاملے کو خوش اسلوبی سے نمٹایا۔|He handled the matter well.|He dealt with the situation with considerable tact.
-3|صورتحال قابو سے باہر ہو رہی ہے۔|The situation is getting out of control.|The situation is rapidly becoming untenable.
-3|اس تجویز پر سنجیدگی سے غور ہونا چاہیے۔|This suggestion should be thought about seriously.|This proposal merits serious deliberation.
-3|اس کے الفاظ میں گہرا مفہوم تھا۔|His words had deep meaning.|His remarks carried considerable weight and nuance.
-3|ہم نے وقت ضائع کیے بغیر کام شروع کیا۔|We started work without wasting time.|We set to work without a moment's delay.
-3|یہ فرق نظر انداز نہیں کیا جا سکتا۔|This difference cannot be ignored.|This distinction cannot reasonably be overlooked.
-3|اس نے اپنی ذمہ داری قبول کی۔|He accepted his responsibility.|He took full ownership of his obligations.
-3|یہ طریقہ کار پرانا ہو چکا ہے۔|This method has become old.|This procedure has become largely obsolete.
-3|ہمیں ترجیحات کا تعین کرنا ہو گا۔|We must decide what is most important.|We shall need to establish a clear order of priorities.
-3|اس کا اثر دیرپا ثابت ہوا۔|Its effect lasted a long time.|Its impact proved remarkably enduring.
-3|یہ بات مبالغہ آرائی پر مبنی ہے۔|This is based on exaggeration.|This account is coloured by a degree of hyperbole.
-3|اس نے دباؤ کے باوجود اپنا موقف نہ بدلا۔|He did not change his view despite pressure.|He held his ground in the face of sustained pressure.
-3|یہ منصوبہ عملی طور پر ناقابل عمل ہے۔|This plan cannot work in practice.|This proposal is, in practical terms, unworkable.
-3|ہمیں غیر ضروری تفصیل سے گریز کرنا چاہیے۔|We should avoid extra detail.|We would do well to dispense with superfluous detail.
-3|اس کی تجویز نے بحث کا رخ بدل دیا۔|His idea changed the discussion.|His intervention shifted the entire tenor of the debate.
-3|یہ نتائج ابتدائی ہیں۔|These results are early ones.|These findings should be regarded as preliminary.
-3|اس نے معاملے کی نزاکت کو سمجھا۔|He understood how delicate the matter was.|He grasped the sensitivity of the situation at once.
-3|ہمیں اس رجحان کو الٹنا ہو گا۔|We must change this trend.|We shall need to reverse this trajectory.
-3|یہ اقدام وقت کی ضرورت تھا۔|This step was needed at the time.|This measure was very much the need of the hour.
-3|اس نے حقیقت کو تسلیم کرنے سے انکار کیا۔|He refused to accept the truth.|He declined to acknowledge the reality of the situation.
-3|یہ مسئلہ محض سطحی نہیں ہے۔|This problem is not only on the surface.|This issue runs considerably deeper than it appears.
-3|ہمیں طویل مدتی سوچ اپنانی چاہیے۔|We should think about the long term.|We ought to adopt a longer-term perspective.
-3|اس کی محنت کا اعتراف کیا گیا۔|His hard work was recognised.|His diligence received due recognition.
-3|یہ فیصلہ متفقہ طور پر منظور ہوا۔|Everyone agreed to this decision.|The resolution was carried unanimously.
-4|اس کی خاموشی رضامندی کے مترادف تھی۔|His silence meant he agreed.|His silence was tantamount to consent.
-4|یہ کوشش سراسر بے سود ثابت ہوئی۔|This effort was completely useless.|The endeavour proved entirely futile.
-4|تمہارے بھروسے پر لعنت۔|I do not want your trust.|To hell with your trust.
-4|ایک مصنوعات کو دوسری پر ترجیح دینا گھٹیا کام ہے۔|Choosing one product over another is bad work.|Ranking one product above another is a thoroughly grubby business.
-4|اس نے نہایت مہارت سے بات کو گھما دیا۔|He cleverly changed the topic.|He deftly deflected the question without appearing to evade it.
-4|اس کا رویہ ناقابل برداشت حد تک متکبرانہ تھا۔|He behaved very proudly.|His manner was insufferably supercilious.
-4|یہ دلیل بظاہر درست مگر حقیقتاً کھوکھلی ہے۔|This argument looks right but is empty.|The argument is specious, however plausible it may first appear.
-4|اس نے اپنی ناکامی کا ملبہ دوسروں پر ڈال دیا۔|He blamed others for his failure.|He shifted the blame for his failure squarely onto others.
-4|وقت نے اس کے فیصلے کو درست ثابت کیا۔|Time proved his decision right.|Time ultimately vindicated his judgement.
-4|یہ تنقید تعمیری کم اور ذاتی زیادہ تھی۔|This criticism was more personal than helpful.|The critique was less constructive than it was personal.
-4|اس نے بغیر کسی پشیمانی کے انکار کر دیا۔|He refused without feeling sorry.|He refused without the slightest compunction.
-4|ایسی حرکت قابل مذمت ہے۔|Such behaviour is very bad.|Such conduct is wholly reprehensible.
-4|اس کے دلائل ناقابل تردید تھے۔|Nobody could argue against him.|His arguments were incontrovertible.
-4|یہ محض لفظی جمع خرچ ہے۔|These are only empty words.|This amounts to little more than empty rhetoric.
-4|اس نے حالات کے سامنے ہتھیار ڈال دیے۔|He gave up because of the situation.|He capitulated to circumstances rather than confront them.
-4|اس کی بصیرت وقت سے آگے تھی۔|He understood things before others.|His insight proved remarkably prescient.
-4|یہ اقدام جلد بازی پر مبنی تھا۔|This step was taken too quickly.|The move was impetuous and insufficiently considered.
-4|اس نے تمام الزامات کو مسترد کر دیا۔|He said all the blame was false.|He repudiated every one of the allegations.
-4|ان کے درمیان دیرینہ عداوت تھی۔|They had been enemies for a long time.|A longstanding animosity existed between them.
-4|یہ تفصیل غیر ضروری اور اکتا دینے والی ہے۔|This detail is extra and boring.|The detail is both superfluous and tedious.
-4|اس نے نہایت فراخ دلی کا مظاہرہ کیا۔|He was very generous.|He proved magnanimous in the extreme.
-4|یہ کامیابی محض اتفاق نہیں تھی۔|This success was not just luck.|This success was by no means fortuitous.
-4|اس کے لہجے میں طنز نمایاں تھا۔|You could hear the mocking in his voice.|A sardonic edge was unmistakable in his tone.
-4|یہ مسئلہ بظاہر ناقابل حل لگتا ہے۔|This problem seems impossible to solve.|The problem appears, at least for now, intractable.
-4|اس نے اپنے اصولوں پر سمجھوتہ نہیں کیا۔|He did not change his principles.|He refused to compromise his principles under any inducement.
-4|یہ بیان حقائق سے مطابقت نہیں رکھتا۔|This statement does not match the facts.|This account is irreconcilable with the established facts.
-4|اس نے خاموشی سے سب کچھ برداشت کیا۔|He suffered everything quietly.|He bore it all with quiet stoicism.
-4|ان کی گفتگو بے مقصد اور طویل تھی۔|Their talk was long and pointless.|Their discussion was as protracted as it was vacuous.
-4|اس نے موقع سے بھرپور فائدہ اٹھایا۔|He used the chance very well.|He exploited the opportunity to the fullest.
-4|یہ رویہ ادارے کے لیے نقصان دہ ہے۔|This behaviour harms the organisation.|Such conduct is deeply inimical to the institution.
-4|اس نے اپنی بات نہایت اختصار سے کہی۔|He said it in very few words.|He put his case with admirable concision.
-4|یہ منصوبہ ابتدا ہی سے ناقص تھا۔|This plan was bad from the start.|The scheme was flawed from its very inception.
-4|اس کی تعریف حد سے بڑھی ہوئی تھی۔|He praised too much.|His praise was frankly fulsome.
-4|یہ معاملہ عدالت میں طے ہوا۔|The court decided this matter.|The dispute was ultimately settled through litigation.
-4|اس نے حقیقت کو خوبصورت الفاظ میں چھپایا۔|He hid the truth in nice words.|He cloaked an unpalatable truth in euphemism.
-4|ان کا اتحاد عارضی ثابت ہوا۔|Their friendship did not last.|Their alliance proved distinctly ephemeral.
-4|یہ کارکردگی توقعات سے کہیں بڑھ کر تھی۔|This work was much better than expected.|The performance surpassed all reasonable expectation.
-4|اس نے بلا جھجک سچ بولا۔|He told the truth without fear.|He spoke the truth without hesitation or hedging.
-4|یہ عادت وقت کے ساتھ پختہ ہو گئی۔|This habit became strong over time.|The habit became thoroughly ingrained over time.
-4|اس کے استدلال میں کوئی جھول نہیں تھا۔|There was no weakness in his reasoning.|His reasoning was watertight throughout.
-1|میں بازار جا رہا ہوں۔|I am going to the market.|I am just popping out to the market.
-1|آپ کا کام ہو گیا؟|Is your work done?|Have you finished up?
-1|مجھے تھوڑی دیر آرام کرنا ہے۔|I want to rest a little.|I could do with a short rest.
-1|یہ قمیض مجھے پسند آئی۔|I liked this shirt.|This shirt has rather caught my eye.
-1|کل چھٹی ہو گی۔|Tomorrow will be a holiday.|We shall be off tomorrow.
-1|میں نے چابی کھو دی۔|I lost the key.|I seem to have mislaid the key.
-1|بس دیر سے آئی۔|The bus came late.|The bus was running behind time.
-1|مجھے دوا لینی ہے۔|I have to take medicine.|I am due to take my medication.
-1|وہ بہت اچھا کھانا بناتی ہے۔|She cooks very well.|She is an excellent cook.
-1|میں آپ کے ساتھ چلوں گا۔|I will go with you.|I shall accompany you.
-1|بچہ رو رہا ہے۔|The child is crying.|The child is in tears.
-1|آج بہت گرمی ہے۔|It is very hot today.|It is stiflingly hot today.
-1|مجھے یہ بات یاد ہے۔|I remember this.|That has stayed with me.
-1|براہ کرم لائٹ جلا دیں۔|Please turn on the light.|Would you switch the light on, please?
-1|میں نے سبق یاد کر لیا۔|I have learned the lesson.|I have committed the lesson to memory.
-1|وہ ابھی پہنچا ہے۔|He has just arrived.|He has only just got here.
-1|مجھے کچھ خریدنا ہے۔|I want to buy something.|There are one or two things I need to pick up.
-1|یہ جگہ بہت خوبصورت ہے۔|This place is very beautiful.|This spot is quite lovely.
-1|میں تیار ہوں۔|I am ready.|I am all set.
-1|کیا میں اندر آ سکتا ہوں؟|May I come in?|Would it be all right if I came in?
-1|مجھے آپ کی بات اچھی لگی۔|I liked what you said.|What you said struck a chord with me.
-1|وہ ہر روز چلتا ہے۔|He walks every day.|He goes for a walk daily.
-1|میرا موبائل بند ہے۔|My phone is off.|My phone is switched off.
-1|آپ کیا کر رہے ہیں؟|What are you doing?|What are you up to?
-1|میں نے سب کچھ سنا۔|I heard everything.|I caught every word of it.
-1|یہ میرا کام نہیں ہے۔|This is not my job.|That falls outside my remit.
-1|بارش رک گئی ہے۔|The rain has stopped.|The rain has eased off.
-1|مجھے راستہ بتا دیں۔|Tell me the way.|Could you point me in the right direction?
-1|وہ ہنس رہا ہے۔|He is laughing.|He is in fits of laughter.
-1|کھانا بہت مزیدار تھا۔|The food was very tasty.|The meal was absolutely delicious.
-2|مجھے آپ سے ایک درخواست کرنی ہے۔|I have a request for you.|I have a favour to ask of you.
-2|یہ بات مجھے پہلے بتانی چاہیے تھی۔|You should have told me before.|I ought to have been informed of this earlier.
-2|اس نے بغیر سوچے جواب دیا۔|He answered without thinking.|He replied without a moment's reflection.
-2|ہمیں اپنے وعدے یاد رکھنے چاہئیں۔|We should remember our promises.|We would do well to honour our commitments.
-2|یہ کام میری صلاحیت سے باہر ہے۔|This work is beyond my ability.|This task is somewhat beyond my competence.
-2|اس نے میری بات کاٹ دی۔|He interrupted me.|He cut me off mid-sentence.
-2|مجھے اس کا کوئی حل نظر نہیں آتا۔|I see no solution to this.|I can see no obvious way forward here.
-2|یہ تجربہ میرے لیے نیا تھا۔|This experience was new for me.|This was uncharted territory for me.
-2|ہمیں پہلے تیاری کرنی چاہیے۔|We should prepare first.|We ought to lay the groundwork first.
-2|اس نے مشکل وقت میں ساتھ دیا۔|He supported me in hard times.|He stood by me when things were difficult.
-2|یہ بات سب پر لاگو ہوتی ہے۔|This applies to everyone.|This holds true across the board.
-2|میں نے اپنی غلطی سے سبق سیکھا۔|I learned from my mistake.|My error taught me a valuable lesson.
-2|اس کی بات میں وزن ہے۔|His point has weight.|There is real substance to his argument.
-2|ہمیں بحث سے گریز کرنا چاہیے۔|We should avoid arguing.|We would be better off avoiding a dispute.
-2|یہ نتیجہ محنت کا پھل ہے۔|This result is the fruit of hard work.|This outcome is a direct reward for sustained effort.
-2|اس نے موضوع بدل دیا۔|He changed the topic.|He steered the conversation elsewhere.
-2|مجھے اس پر مکمل اعتماد ہے۔|I fully trust him.|I have absolute confidence in him.
-2|یہ کام مرحلہ وار ہو گا۔|This work will be done step by step.|This will be carried out in stages.
-2|اس نے سب کے سامنے معافی مانگی۔|He apologised in front of everyone.|He offered a public apology.
-2|ہمیں حقیقت کا سامنا کرنا چاہیے۔|We should face the truth.|We must come to terms with the reality.
-2|یہ معاملہ ابھی زیر غور ہے۔|This matter is still being considered.|The matter is currently under review.
-2|اس نے بہت اچھی تقریر کی۔|He gave a very good speech.|He delivered an impressive address.
-2|مجھے آپ کی مدد کی ضرورت ہو گی۔|I will need your help.|I shall be needing your assistance.
-2|یہ عادت چھوڑنا مشکل ہے۔|It is hard to leave this habit.|This is a difficult habit to break.
-2|اس نے ہر سوال کا جواب دیا۔|He answered every question.|He fielded every question put to him.
-2|ہمیں ایک دوسرے کا احترام کرنا چاہیے۔|We should respect each other.|Mutual respect should be our starting point.
-2|یہ خبر بہت جلد پھیل گئی۔|This news spread very quickly.|Word of it spread like wildfire.
-2|اس نے کام آدھا چھوڑ دیا۔|He left the work half done.|He abandoned the task midway.
-2|مجھے اس کا نتیجہ معلوم ہے۔|I know its result.|I am well aware of the likely outcome.
-2|ہم نے بروقت فیصلہ کیا۔|We decided at the right time.|We made a timely decision.
-3|اس نے معاملے کو غیر ضروری طول دیا۔|He made the matter longer than needed.|He drew the matter out unnecessarily.
-3|یہ منصوبہ محدود وسائل میں تیار ہوا۔|This plan was made with few resources.|The project was developed under considerable resource constraints.
-3|اس کے موقف میں لچک کی گنجائش ہے۔|His view can change a little.|There is some scope for flexibility in his position.
-3|ہمیں مفروضوں کے بجائے حقائق پر انحصار کرنا چاہیے۔|We should depend on facts, not guesses.|We should rely on evidence rather than assumption.
-3|یہ تبدیلی بنیادی نوعیت کی ہے۔|This change is a basic one.|This represents a fundamental shift.
-3|اس نے تنقید کا مدلل جواب دیا۔|He answered the criticism with reasons.|He responded to the criticism with a reasoned defence.
-3|صورتحال کا درست اندازہ لگانا ضروری ہے۔|It is necessary to judge the situation correctly.|An accurate appraisal of the situation is essential.
-3|یہ اقدام بین الاقوامی معیار کے مطابق ہے۔|This step matches world standards.|This measure conforms to international best practice.
-3|اس نے اپنے تجربے سے فائدہ اٹھایا۔|He used his experience.|He drew on his experience to good effect.
-3|یہ رجحان طویل عرصے سے جاری ہے۔|This trend has continued for long.|This pattern has persisted over a considerable period.
-3|ہمیں غیر جانبدارانہ جائزہ لینا چاہیے۔|We should look at it without taking sides.|An impartial assessment is called for.
-3|اس کے اقدامات نے اعتماد بحال کیا۔|His steps brought back trust.|His actions went a long way towards restoring confidence.
-3|یہ مسئلہ کئی عوامل کا نتیجہ ہے۔|Many things caused this problem.|This problem is the product of several converging factors.
-3|اس نے ذمہ داری قبول کرنے سے گریز کیا۔|He avoided taking responsibility.|He was reluctant to shoulder any responsibility.
-3|ہمیں اپنی حکمت عملی پر نظر ثانی کرنی چاہیے۔|We should look at our plan again.|We ought to revisit our strategy.
-3|یہ نتائج پہلے کے مطالعات سے مطابقت رکھتے ہیں۔|These results match earlier studies.|These findings are consistent with earlier research.
-3|اس نے معاملے کو منطقی انجام تک پہنچایا۔|He finished the matter properly.|He brought the matter to a logical conclusion.
-3|یہ تجویز عملی مشکلات سے دوچار ہے۔|This idea has practical problems.|The proposal faces significant practical obstacles.
-3|اس کا اثر تمام شعبوں پر پڑا۔|It affected every area.|Its impact was felt across every sector.
-3|ہمیں شفافیت کو یقینی بنانا ہو گا۔|We must make sure everything is clear.|We shall need to ensure complete transparency.
-3|یہ فیصلہ مستقبل کے لیے مثال بنے گا۔|This decision will be an example for later.|This ruling will set an important precedent.
-3|اس نے دستیاب اعداد و شمار کا تجزیہ کیا۔|He studied the available numbers.|He analysed the available data thoroughly.
-3|یہ صورتحال مسلسل نگرانی کی متقاضی ہے۔|This situation needs constant watching.|The situation calls for continuous monitoring.
-3|اس نے اختلاف رائے کا احترام کیا۔|He respected different opinions.|He showed genuine respect for dissenting views.
-3|یہ نظام بتدریج بہتر ہو رہا ہے۔|This system is slowly improving.|The system is showing steady incremental improvement.
-4|اس نے بظاہر معصوم سوال سے سب کو الجھا دیا۔|His simple question confused everyone.|His ostensibly innocuous question threw everyone into confusion.
-4|یہ تنقید ذاتی عناد پر مبنی معلوم ہوتی ہے۔|This criticism seems personal.|The critique appears to be animated by personal rancour.
-4|اس نے اپنی بات کو غیر ضروری طور پر پیچیدہ بنا دیا۔|He made his point too complicated.|He rendered his argument needlessly convoluted.
-4|یہ منصوبہ خوش کن مگر ناقابل عمل ہے۔|This plan sounds nice but cannot work.|The scheme is attractive in principle but wholly unworkable.
-4|اس کے چہرے پر کوئی تاثر نہیں تھا۔|You could not read his face.|His expression remained utterly inscrutable.
-4|یہ عمل اخلاقی اعتبار سے قابل اعتراض ہے۔|This action is morally wrong.|The practice is ethically indefensible.
-4|اس نے مخالفت کے باوجود کام جاری رکھا۔|He continued despite opposition.|He pressed on undeterred by the opposition.
-4|یہ کہانی حقیقت اور افسانے کا امتزاج ہے۔|This story mixes truth and fiction.|The account is an amalgam of fact and invention.
-4|اس نے چالاکی سے اصل سوال ٹال دیا۔|He cleverly avoided the real question.|He adroitly sidestepped the substantive question.
-4|یہ اقدام دیرینہ مسئلے کا عارضی حل ہے۔|This step is a short fix for an old problem.|The measure is a stopgap remedy for a longstanding problem.
-4|اس کی گفتگو میں غیر معمولی وضاحت تھی۔|He spoke very clearly.|There was an uncommon lucidity to his exposition.
-4|یہ رویہ ادارے کی ساکھ کے لیے مہلک ہے۔|This behaviour harms the name of the institution.|Such conduct is corrosive to the institution's standing.
-4|اس نے بغیر کسی جھجک کے سچ کہہ دیا۔|He said the truth openly.|He spoke the unvarnished truth without flinching.
-4|یہ دلیل بار بار دہرائی جا چکی ہے۔|This argument has been said many times.|This argument has been rehearsed ad nauseam.
-4|اس نے اپنے حریف کی خوبیوں کا اعتراف کیا۔|He accepted his rival was good.|He was magnanimous enough to acknowledge his rival's merits.
+everyday|1|مجھے پانی چاہیے۔|I want water.|I would like some water, please.
+everyday|1|میرا نام علی ہے۔|My name is Ali.|I go by the name of Ali.
+everyday|1|آپ کیسے ہیں؟|How are you?|How have you been keeping?
+everyday|1|میں ٹھیک ہوں، شکریہ۔|I am fine, thank you.|I am quite well, thank you for asking.
+everyday|1|یہ میری کتاب ہے۔|This is my book.|This book belongs to me.
+everyday|1|وہ سکول جا رہا ہے۔|He is going to school.|He is on his way to school.
+everyday|1|مجھے بھوک لگی ہے۔|I am hungry.|I could do with something to eat.
+everyday|1|آج موسم اچھا ہے۔|The weather is good today.|We are having pleasant weather today.
+everyday|1|براہ کرم دروازہ بند کریں۔|Please close the door.|Would you mind closing the door?
+everyday|1|میں سمجھ نہیں سکا۔|I did not understand.|I am afraid that did not quite register with me.
+everyday|1|کیا آپ میری مدد کریں گے؟|Will you help me?|Would you be kind enough to help me?
+everyday|1|یہ کتنے کا ہے؟|How much is this?|What does this cost?
+everyday|1|مجھے دیر ہو گئی ہے۔|I am late.|I am running behind schedule.
+everyday|1|میں کل آؤں گا۔|I will come tomorrow.|I shall drop by tomorrow.
+everyday|1|وہ بہت اچھا لڑکا ہے۔|He is a very good boy.|He is a thoroughly decent young man.
+everyday|1|میرے پاس وقت نہیں ہے۔|I do not have time.|I am rather pressed for time.
+everyday|1|یہ کام مشکل ہے۔|This work is hard.|This task is quite demanding.
+everyday|1|مجھے یہ پسند ہے۔|I like this.|This appeals to me a great deal.
+everyday|1|وہ گھر پر نہیں ہے۔|He is not at home.|He is out at the moment.
+everyday|1|میں انگریزی سیکھ رہا ہوں۔|I am learning English.|I am currently studying English.
+everyday|1|براہ کرم آہستہ بولیں۔|Please speak slowly.|Could you speak a little more slowly, please?
+everyday|1|میں تھک گیا ہوں۔|I am tired.|I am feeling rather worn out.
+everyday|1|کھانا تیار ہے۔|The food is ready.|The meal has been served.
+everyday|1|مجھے معاف کر دیں۔|Forgive me.|I do apologise for that.
+everyday|1|یہ بہت مہنگا ہے۔|This is very expensive.|This is rather beyond my budget.
+everyday|1|میں یہاں نیا ہوں۔|I am new here.|I am new to this place.
+everyday|1|وہ کتاب پڑھ رہی ہے۔|She is reading a book.|She is engrossed in a book.
+everyday|1|میرا بھائی ڈاکٹر ہے۔|My brother is a doctor.|My brother practises medicine.
+everyday|1|بارش ہو رہی ہے۔|It is raining.|We are having a spell of rain.
+everyday|1|مجھے نیند آ رہی ہے۔|I am feeling sleepy.|I can barely keep my eyes open.
+everyday|1|یہ راستہ بند ہے۔|This road is closed.|This route is currently blocked.
+everyday|1|میں پانی پینا چاہتا ہوں۔|I want to drink water.|I would appreciate a glass of water.
+everyday|1|آپ کہاں رہتے ہیں؟|Where do you live?|Whereabouts are you based?
+everyday|1|میں لاہور سے ہوں۔|I am from Lahore.|I hail from Lahore.
+everyday|1|وہ بہت تیز چلتا ہے۔|He walks very fast.|He walks at a brisk pace.
+everyday|1|میرے پاس پیسے نہیں ہیں۔|I have no money.|I am a little short of cash.
+everyday|1|یہ میرا پہلا دن ہے۔|This is my first day.|This marks my first day here.
+everyday|1|براہ کرم انتظار کریں۔|Please wait.|Kindly bear with me for a moment.
+everyday|1|میں نے کھانا کھا لیا۔|I have eaten.|I have already had my meal.
+everyday|1|وہ اچھی طرح گاتی ہے۔|She sings well.|She has a lovely singing voice.
+everyday|1|مجھے سردی لگ رہی ہے۔|I am feeling cold.|I am feeling rather chilly.
+everyday|1|کیا آپ مجھے سن سکتے ہیں؟|Can you hear me?|Am I coming through clearly?
+everyday|1|یہ آسان سوال ہے۔|This is an easy question.|This is a fairly straightforward question.
+everyday|1|میں روز ورزش کرتا ہوں۔|I exercise every day.|I work out on a daily basis.
+everyday|1|وہ میرا دوست ہے۔|He is my friend.|He is a close friend of mine.
+everyday|1|دکان بند ہو گئی ہے۔|The shop has closed.|The shop has shut for the day.
+everyday|1|مجھے جانا ہے۔|I have to go.|I really must be off.
+everyday|1|آپ کا شکریہ۔|Thank you.|I am most grateful to you.
+everyday|1|کوئی بات نہیں۔|It is nothing.|Please do not mention it.
+everyday|1|میں کوشش کروں گا۔|I will try.|I shall do my best.
+everyday|1|وہ ابھی سو رہا ہے۔|He is sleeping now.|He is asleep at present.
+everyday|1|یہ میرا گھر ہے۔|This is my house.|This is where I live.
+everyday|1|کھڑکی کھول دیں۔|Open the window.|Would you open the window for me?
+everyday|1|مجھے چائے پسند ہے۔|I like tea.|I am rather fond of tea.
+everyday|1|بچے کھیل رہے ہیں۔|The children are playing.|The children are at play outside.
+everyday|1|میں کام کر رہا ہوں۔|I am working.|I am in the middle of some work.
+everyday|1|آج چھٹی ہے۔|Today is a holiday.|Today happens to be a day off.
+everyday|1|وہ بہت خوش ہے۔|He is very happy.|He is absolutely delighted.
+everyday|1|مجھے راستہ نہیں معلوم۔|I do not know the way.|I am unfamiliar with this route.
+everyday|1|براہ کرم بیٹھ جائیں۔|Please sit down.|Do take a seat.
+everyday|1|میں بازار جا رہا ہوں۔|I am going to the market.|I am just popping out to the market.
+everyday|1|آپ کا کام ہو گیا؟|Is your work done?|Have you finished up?
+everyday|1|مجھے تھوڑی دیر آرام کرنا ہے۔|I want to rest a little.|I could do with a short rest.
+everyday|1|یہ قمیض مجھے پسند آئی۔|I liked this shirt.|This shirt has rather caught my eye.
+everyday|1|کل چھٹی ہو گی۔|Tomorrow will be a holiday.|We shall be off tomorrow.
+everyday|1|میں نے چابی کھو دی۔|I lost the key.|I seem to have mislaid the key.
+everyday|1|بس دیر سے آئی۔|The bus came late.|The bus was running behind time.
+everyday|1|مجھے دوا لینی ہے۔|I have to take medicine.|I am due to take my medication.
+everyday|1|وہ بہت اچھا کھانا بناتی ہے۔|She cooks very well.|She is an excellent cook.
+everyday|1|میں آپ کے ساتھ چلوں گا۔|I will go with you.|I shall accompany you.
+everyday|1|بچہ رو رہا ہے۔|The child is crying.|The child is in tears.
+everyday|1|آج بہت گرمی ہے۔|It is very hot today.|It is stiflingly hot today.
+everyday|1|مجھے یہ بات یاد ہے۔|I remember this.|That has stayed with me.
+everyday|1|براہ کرم لائٹ جلا دیں۔|Please turn on the light.|Would you switch the light on, please?
+everyday|1|میں نے سبق یاد کر لیا۔|I have learned the lesson.|I have committed the lesson to memory.
+everyday|1|وہ ابھی پہنچا ہے۔|He has just arrived.|He has only just got here.
+everyday|1|مجھے کچھ خریدنا ہے۔|I want to buy something.|There are one or two things I need to pick up.
+everyday|1|یہ جگہ بہت خوبصورت ہے۔|This place is very beautiful.|This spot is quite lovely.
+everyday|1|میں تیار ہوں۔|I am ready.|I am all set.
+everyday|1|کیا میں اندر آ سکتا ہوں؟|May I come in?|Would it be all right if I came in?
+everyday|1|مجھے آپ کی بات اچھی لگی۔|I liked what you said.|What you said struck a chord with me.
+everyday|1|وہ ہر روز چلتا ہے۔|He walks every day.|He goes for a walk daily.
+everyday|1|میرا موبائل بند ہے۔|My phone is off.|My phone is switched off.
+everyday|1|آپ کیا کر رہے ہیں؟|What are you doing?|What are you up to?
+everyday|1|میں نے سب کچھ سنا۔|I heard everything.|I caught every word of it.
+everyday|1|یہ میرا کام نہیں ہے۔|This is not my job.|That falls outside my remit.
+everyday|1|بارش رک گئی ہے۔|The rain has stopped.|The rain has eased off.
+everyday|1|مجھے راستہ بتا دیں۔|Tell me the way.|Could you point me in the right direction?
+everyday|1|وہ ہنس رہا ہے۔|He is laughing.|He is in fits of laughter.
+everyday|1|کھانا بہت مزیدار تھا۔|The food was very tasty.|The meal was absolutely delicious.
+everyday|2|مجھے آپ سے ایک بات کہنی ہے۔|I want to tell you something.|There is a matter I would like to raise with you.
+everyday|2|یہ مسئلہ حل ہو گیا ہے۔|This problem is solved.|The issue has been resolved satisfactorily.
+everyday|2|مجھے آپ کی رائے چاہیے۔|I need your opinion.|I would value your input on this.
+everyday|2|وہ اپنے کام میں بہت محنتی ہے۔|He works very hard.|He is remarkably diligent in his work.
+everyday|2|ہمیں جلد فیصلہ کرنا ہو گا۔|We must decide soon.|We shall need to reach a decision shortly.
+everyday|2|میں اس بات سے اتفاق نہیں کرتا۔|I do not agree with this.|I am afraid I take a different view on that.
+everyday|2|یہ منصوبہ کامیاب ہو گا۔|This plan will succeed.|I am confident this plan will bear fruit.
+everyday|2|مجھے تھوڑا وقت دیں۔|Give me a little time.|I would appreciate a little more time.
+everyday|2|اس نے میری بہت مدد کی۔|He helped me a lot.|He went out of his way to assist me.
+everyday|2|قیمتیں بہت بڑھ گئی ہیں۔|Prices have gone up a lot.|Prices have risen sharply of late.
+everyday|2|مجھے اس کا افسوس ہے۔|I am sorry about that.|I deeply regret that.
+everyday|2|یہ بات درست نہیں ہے۔|This is not correct.|That statement is not entirely accurate.
+everyday|2|ہم اس پر بعد میں بات کریں گے۔|We will talk about it later.|We can revisit this matter at a later stage.
+everyday|2|اس نے وعدہ پورا کیا۔|He kept his promise.|He honoured his commitment.
+everyday|2|مجھے یہ کام آج ختم کرنا ہے۔|I must finish this work today.|I need to wrap this up by the end of the day.
+everyday|2|آپ کی محنت رنگ لائی۔|Your hard work paid off.|Your efforts have finally borne fruit.
+everyday|2|یہ ایک اچھا موقع ہے۔|This is a good opportunity.|This represents an excellent opportunity.
+everyday|2|میں نے پوری کوشش کی۔|I tried my best.|I left no stone unturned.
+everyday|2|وہ ہمیشہ سچ بولتا ہے۔|He always speaks the truth.|He is unfailingly honest.
+everyday|2|اس کام میں خطرہ ہے۔|There is risk in this work.|This undertaking carries a degree of risk.
+everyday|2|مجھے آپ پر بھروسہ ہے۔|I trust you.|I have complete faith in you.
+everyday|2|ہمیں مل کر کام کرنا چاہیے۔|We should work together.|We would do well to join forces.
+everyday|2|یہ فیصلہ آسان نہیں تھا۔|This decision was not easy.|Reaching this decision was far from simple.
+everyday|2|اس نے اپنی غلطی مان لی۔|He admitted his mistake.|He readily acknowledged his error.
+everyday|2|مجھے اس کی ضرورت نہیں۔|I do not need this.|I have no particular use for this.
+everyday|2|وقت بہت تیزی سے گزرتا ہے۔|Time passes very quickly.|Time has a way of slipping by.
+everyday|2|یہ کتاب پڑھنے کے قابل ہے۔|This book is worth reading.|This book certainly merits your attention.
+everyday|2|اس نے میری بات نہیں سنی۔|He did not listen to me.|He paid no heed to what I said.
+everyday|2|ہم نے بہت کچھ سیکھا۔|We learned a lot.|We gained a great deal from the experience.
+everyday|2|مجھے اس بارے میں سوچنا ہو گا۔|I will have to think about it.|I shall need to give that some thought.
+everyday|2|یہ صورتحال بہتر ہو رہی ہے۔|This situation is improving.|Conditions are gradually improving.
+everyday|2|اس نے بغیر کہے کام کر دیا۔|He did the work without being told.|He took the initiative without being asked.
+everyday|2|مجھے آپ کی بات سمجھ آ گئی۔|I understood your point.|I take your point entirely.
+everyday|2|یہ ایک سنگین مسئلہ ہے۔|This is a serious problem.|This is a matter of grave concern.
+everyday|2|ہمیں صبر سے کام لینا چاہیے۔|We should be patient.|Patience would serve us better here.
+everyday|2|اس نے سب کو حیران کر دیا۔|He surprised everyone.|He took everyone completely by surprise.
+everyday|2|میں آپ کا مشکور ہوں۔|I am thankful to you.|I am deeply indebted to you.
+everyday|2|یہ بات قابل غور ہے۔|This point deserves thought.|This is a point worth considering carefully.
+everyday|2|اس کا رویہ بدل گیا ہے۔|His behaviour has changed.|There has been a marked change in his attitude.
+everyday|2|ہمیں نئے طریقے آزمانے چاہئیں۔|We should try new methods.|We ought to explore fresh approaches.
+everyday|2|مجھے یقین ہے کہ وہ آئے گا۔|I am sure he will come.|I have every confidence that he will turn up.
+everyday|2|یہ کام وقت پر مکمل ہونا چاہیے۔|This work should finish on time.|This assignment must be completed within the deadline.
+everyday|2|اس نے بہت ترقی کی ہے۔|He has progressed a lot.|He has come on remarkably well.
+everyday|2|مجھے اس پر اعتراض ہے۔|I object to this.|I must register an objection to that.
+everyday|2|ہمیں اپنی غلطیوں سے سیکھنا چاہیے۔|We should learn from our mistakes.|We would be wise to learn from our missteps.
+everyday|2|یہ بات راز میں رکھیں۔|Keep this a secret.|I would ask you to treat this in confidence.
+everyday|2|اس کی صحت بہتر ہو رہی ہے۔|His health is improving.|He is well on the road to recovery.
+everyday|2|مجھے اس کام کا تجربہ ہے۔|I have experience of this work.|I have a fair amount of experience in this field.
+everyday|2|یہ ایک معمولی بات ہے۔|This is a small matter.|This is hardly worth troubling over.
+everyday|2|ہم نے سب کچھ آزما لیا۔|We tried everything.|We have exhausted every available option.
+everyday|2|اس نے میری توقع سے بڑھ کر کیا۔|He did more than I expected.|He surpassed my expectations entirely.
+everyday|2|مجھے جلدی نہیں ہے۔|I am not in a hurry.|There is no particular rush on my part.
+everyday|2|یہ منصوبہ بہت مہنگا ہے۔|This plan is very expensive.|This proposal is prohibitively costly.
+everyday|2|اس نے آخر تک ہار نہیں مانی۔|He did not give up until the end.|He refused to concede defeat right to the last.
+everyday|2|ہمیں دوسروں کا خیال رکھنا چاہیے۔|We should care for others.|We ought to be mindful of those around us.
+everyday|2|یہ بات مجھے پریشان کر رہی ہے۔|This is worrying me.|This matter is preying on my mind.
+everyday|2|اس نے صاف انکار کر دیا۔|He clearly refused.|He turned it down flatly.
+everyday|2|مجھے آپ سے ملنا ہے۔|I want to meet you.|I would like to arrange a meeting with you.
+everyday|2|یہ نتیجہ حیران کن ہے۔|This result is surprising.|This outcome is genuinely remarkable.
+everyday|2|ہمیں فوری کارروائی کرنی ہو گی۔|We must act at once.|Immediate action is called for.
+everyday|2|مجھے آپ سے ایک درخواست کرنی ہے۔|I have a request for you.|I have a favour to ask of you.
+everyday|2|یہ بات مجھے پہلے بتانی چاہیے تھی۔|You should have told me before.|I ought to have been informed of this earlier.
+everyday|2|اس نے بغیر سوچے جواب دیا۔|He answered without thinking.|He replied without a moment's reflection.
+everyday|2|ہمیں اپنے وعدے یاد رکھنے چاہئیں۔|We should remember our promises.|We would do well to honour our commitments.
+everyday|2|یہ کام میری صلاحیت سے باہر ہے۔|This work is beyond my ability.|This task is somewhat beyond my competence.
+everyday|2|اس نے میری بات کاٹ دی۔|He interrupted me.|He cut me off mid-sentence.
+everyday|2|مجھے اس کا کوئی حل نظر نہیں آتا۔|I see no solution to this.|I can see no obvious way forward here.
+everyday|2|یہ تجربہ میرے لیے نیا تھا۔|This experience was new for me.|This was uncharted territory for me.
+everyday|2|ہمیں پہلے تیاری کرنی چاہیے۔|We should prepare first.|We ought to lay the groundwork first.
+everyday|2|اس نے مشکل وقت میں ساتھ دیا۔|He supported me in hard times.|He stood by me when things were difficult.
+everyday|2|یہ بات سب پر لاگو ہوتی ہے۔|This applies to everyone.|This holds true across the board.
+everyday|2|میں نے اپنی غلطی سے سبق سیکھا۔|I learned from my mistake.|My error taught me a valuable lesson.
+everyday|2|اس کی بات میں وزن ہے۔|His point has weight.|There is real substance to his argument.
+everyday|2|ہمیں بحث سے گریز کرنا چاہیے۔|We should avoid arguing.|We would be better off avoiding a dispute.
+everyday|2|یہ نتیجہ محنت کا پھل ہے۔|This result is the fruit of hard work.|This outcome is a direct reward for sustained effort.
+everyday|2|اس نے موضوع بدل دیا۔|He changed the topic.|He steered the conversation elsewhere.
+everyday|2|مجھے اس پر مکمل اعتماد ہے۔|I fully trust him.|I have absolute confidence in him.
+everyday|2|یہ کام مرحلہ وار ہو گا۔|This work will be done step by step.|This will be carried out in stages.
+everyday|2|اس نے سب کے سامنے معافی مانگی۔|He apologised in front of everyone.|He offered a public apology.
+everyday|2|ہمیں حقیقت کا سامنا کرنا چاہیے۔|We should face the truth.|We must come to terms with the reality.
+everyday|2|یہ معاملہ ابھی زیر غور ہے۔|This matter is still being considered.|The matter is currently under review.
+everyday|2|اس نے بہت اچھی تقریر کی۔|He gave a very good speech.|He delivered an impressive address.
+everyday|2|مجھے آپ کی مدد کی ضرورت ہو گی۔|I will need your help.|I shall be needing your assistance.
+everyday|2|یہ عادت چھوڑنا مشکل ہے۔|It is hard to leave this habit.|This is a difficult habit to break.
+everyday|2|اس نے ہر سوال کا جواب دیا۔|He answered every question.|He fielded every question put to him.
+everyday|2|ہمیں ایک دوسرے کا احترام کرنا چاہیے۔|We should respect each other.|Mutual respect should be our starting point.
+everyday|2|یہ خبر بہت جلد پھیل گئی۔|This news spread very quickly.|Word of it spread like wildfire.
+everyday|2|اس نے کام آدھا چھوڑ دیا۔|He left the work half done.|He abandoned the task midway.
+everyday|2|مجھے اس کا نتیجہ معلوم ہے۔|I know its result.|I am well aware of the likely outcome.
+everyday|2|ہم نے بروقت فیصلہ کیا۔|We decided at the right time.|We made a timely decision.
+everyday|3|اس نے اپنی رائے مضبوط دلائل سے پیش کی۔|He gave his opinion with strong reasons.|He advanced his position with a compelling body of argument.
+everyday|3|یہ فیصلہ حالات کے پیش نظر کیا گیا۔|This decision was made because of the situation.|The decision was taken in light of prevailing circumstances.
+everyday|3|اس کا موقف اصولوں پر مبنی تھا۔|His position was based on principles.|His stance was grounded in a coherent set of principles.
+everyday|3|ہمیں اس معاملے کا گہرا تجزیہ کرنا چاہیے۔|We should study this matter deeply.|This matter warrants a rigorous and systematic analysis.
+everyday|3|یہ تبدیلی بتدریج آئی ہے۔|This change came slowly.|The transformation has been incremental rather than abrupt.
+everyday|3|اس کے دلائل میں تضاد تھا۔|There was a contradiction in his arguments.|His reasoning suffered from an internal inconsistency.
+everyday|3|ہم اس نتیجے پر پہنچے ہیں۔|We have reached this conclusion.|We have arrived at the following conclusion.
+everyday|3|اس مسئلے کے کئی پہلو ہیں۔|This problem has many sides.|This issue presents a number of distinct dimensions.
+everyday|3|اس نے حقائق کو توڑ مروڑ کر پیش کیا۔|He presented the facts wrongly.|He misrepresented the facts to suit his case.
+everyday|3|یہ رجحان تشویشناک ہے۔|This trend is worrying.|This trend is a source of considerable concern.
+everyday|3|ہمیں شواہد کی روشنی میں فیصلہ کرنا چاہیے۔|We should decide after looking at proof.|Our judgement should rest firmly on the available evidence.
+everyday|3|اس کی کارکردگی مسلسل بہتر ہو رہی ہے۔|His performance keeps getting better.|His performance shows a sustained upward trajectory.
+everyday|3|یہ اقدام دور رس نتائج کا حامل ہے۔|This step will have big results.|This measure carries far-reaching implications.
+everyday|3|اس نے تنقید کو خندہ پیشانی سے قبول کیا۔|He accepted criticism happily.|He received the criticism with admirable grace.
+everyday|3|مسئلے کی جڑ کہیں اور ہے۔|The real cause is somewhere else.|The root of the problem lies elsewhere entirely.
+everyday|3|ہمیں توازن برقرار رکھنا ہو گا۔|We must keep a balance.|We shall have to strike a careful balance.
+everyday|3|یہ دعویٰ ثبوت کا محتاج ہے۔|This claim needs proof.|This assertion remains unsubstantiated.
+everyday|3|اس نے معاملے کو خوش اسلوبی سے نمٹایا۔|He handled the matter well.|He dealt with the situation with considerable tact.
+everyday|3|صورتحال قابو سے باہر ہو رہی ہے۔|The situation is getting out of control.|The situation is rapidly becoming untenable.
+everyday|3|اس تجویز پر سنجیدگی سے غور ہونا چاہیے۔|This suggestion should be thought about seriously.|This proposal merits serious deliberation.
+everyday|3|اس کے الفاظ میں گہرا مفہوم تھا۔|His words had deep meaning.|His remarks carried considerable weight and nuance.
+everyday|3|ہم نے وقت ضائع کیے بغیر کام شروع کیا۔|We started work without wasting time.|We set to work without a moment's delay.
+everyday|3|یہ فرق نظر انداز نہیں کیا جا سکتا۔|This difference cannot be ignored.|This distinction cannot reasonably be overlooked.
+everyday|3|اس نے اپنی ذمہ داری قبول کی۔|He accepted his responsibility.|He took full ownership of his obligations.
+everyday|3|یہ طریقہ کار پرانا ہو چکا ہے۔|This method has become old.|This procedure has become largely obsolete.
+everyday|3|ہمیں ترجیحات کا تعین کرنا ہو گا۔|We must decide what is most important.|We shall need to establish a clear order of priorities.
+everyday|3|اس کا اثر دیرپا ثابت ہوا۔|Its effect lasted a long time.|Its impact proved remarkably enduring.
+everyday|3|یہ بات مبالغہ آرائی پر مبنی ہے۔|This is based on exaggeration.|This account is coloured by a degree of hyperbole.
+everyday|3|اس نے دباؤ کے باوجود اپنا موقف نہ بدلا۔|He did not change his view despite pressure.|He held his ground in the face of sustained pressure.
+everyday|3|یہ منصوبہ عملی طور پر ناقابل عمل ہے۔|This plan cannot work in practice.|This proposal is, in practical terms, unworkable.
+everyday|3|ہمیں غیر ضروری تفصیل سے گریز کرنا چاہیے۔|We should avoid extra detail.|We would do well to dispense with superfluous detail.
+everyday|3|اس کی تجویز نے بحث کا رخ بدل دیا۔|His idea changed the discussion.|His intervention shifted the entire tenor of the debate.
+everyday|3|یہ نتائج ابتدائی ہیں۔|These results are early ones.|These findings should be regarded as preliminary.
+everyday|3|اس نے معاملے کی نزاکت کو سمجھا۔|He understood how delicate the matter was.|He grasped the sensitivity of the situation at once.
+everyday|3|ہمیں اس رجحان کو الٹنا ہو گا۔|We must change this trend.|We shall need to reverse this trajectory.
+everyday|3|یہ اقدام وقت کی ضرورت تھا۔|This step was needed at the time.|This measure was very much the need of the hour.
+everyday|3|اس نے حقیقت کو تسلیم کرنے سے انکار کیا۔|He refused to accept the truth.|He declined to acknowledge the reality of the situation.
+everyday|3|یہ مسئلہ محض سطحی نہیں ہے۔|This problem is not only on the surface.|This issue runs considerably deeper than it appears.
+everyday|3|ہمیں طویل مدتی سوچ اپنانی چاہیے۔|We should think about the long term.|We ought to adopt a longer-term perspective.
+everyday|3|اس کی محنت کا اعتراف کیا گیا۔|His hard work was recognised.|His diligence received due recognition.
+everyday|3|یہ فیصلہ متفقہ طور پر منظور ہوا۔|Everyone agreed to this decision.|The resolution was carried unanimously.
+everyday|3|اس نے معاملے کو غیر ضروری طول دیا۔|He made the matter longer than needed.|He drew the matter out unnecessarily.
+everyday|3|یہ منصوبہ محدود وسائل میں تیار ہوا۔|This plan was made with few resources.|The project was developed under considerable resource constraints.
+everyday|3|اس کے موقف میں لچک کی گنجائش ہے۔|His view can change a little.|There is some scope for flexibility in his position.
+everyday|3|ہمیں مفروضوں کے بجائے حقائق پر انحصار کرنا چاہیے۔|We should depend on facts, not guesses.|We should rely on evidence rather than assumption.
+everyday|3|یہ تبدیلی بنیادی نوعیت کی ہے۔|This change is a basic one.|This represents a fundamental shift.
+everyday|3|اس نے تنقید کا مدلل جواب دیا۔|He answered the criticism with reasons.|He responded to the criticism with a reasoned defence.
+everyday|3|صورتحال کا درست اندازہ لگانا ضروری ہے۔|It is necessary to judge the situation correctly.|An accurate appraisal of the situation is essential.
+everyday|3|یہ اقدام بین الاقوامی معیار کے مطابق ہے۔|This step matches world standards.|This measure conforms to international best practice.
+everyday|3|اس نے اپنے تجربے سے فائدہ اٹھایا۔|He used his experience.|He drew on his experience to good effect.
+everyday|3|یہ رجحان طویل عرصے سے جاری ہے۔|This trend has continued for long.|This pattern has persisted over a considerable period.
+everyday|3|ہمیں غیر جانبدارانہ جائزہ لینا چاہیے۔|We should look at it without taking sides.|An impartial assessment is called for.
+everyday|3|اس کے اقدامات نے اعتماد بحال کیا۔|His steps brought back trust.|His actions went a long way towards restoring confidence.
+everyday|3|یہ مسئلہ کئی عوامل کا نتیجہ ہے۔|Many things caused this problem.|This problem is the product of several converging factors.
+everyday|3|اس نے ذمہ داری قبول کرنے سے گریز کیا۔|He avoided taking responsibility.|He was reluctant to shoulder any responsibility.
+everyday|3|ہمیں اپنی حکمت عملی پر نظر ثانی کرنی چاہیے۔|We should look at our plan again.|We ought to revisit our strategy.
+everyday|3|یہ نتائج پہلے کے مطالعات سے مطابقت رکھتے ہیں۔|These results match earlier studies.|These findings are consistent with earlier research.
+everyday|3|اس نے معاملے کو منطقی انجام تک پہنچایا۔|He finished the matter properly.|He brought the matter to a logical conclusion.
+everyday|3|یہ تجویز عملی مشکلات سے دوچار ہے۔|This idea has practical problems.|The proposal faces significant practical obstacles.
+everyday|3|اس کا اثر تمام شعبوں پر پڑا۔|It affected every area.|Its impact was felt across every sector.
+everyday|3|ہمیں شفافیت کو یقینی بنانا ہو گا۔|We must make sure everything is clear.|We shall need to ensure complete transparency.
+everyday|3|یہ فیصلہ مستقبل کے لیے مثال بنے گا۔|This decision will be an example for later.|This ruling will set an important precedent.
+everyday|3|اس نے دستیاب اعداد و شمار کا تجزیہ کیا۔|He studied the available numbers.|He analysed the available data thoroughly.
+everyday|3|یہ صورتحال مسلسل نگرانی کی متقاضی ہے۔|This situation needs constant watching.|The situation calls for continuous monitoring.
+everyday|3|اس نے اختلاف رائے کا احترام کیا۔|He respected different opinions.|He showed genuine respect for dissenting views.
+everyday|3|یہ نظام بتدریج بہتر ہو رہا ہے۔|This system is slowly improving.|The system is showing steady incremental improvement.
+everyday|4|اس کی خاموشی رضامندی کے مترادف تھی۔|His silence meant he agreed.|His silence was tantamount to consent.
+everyday|4|یہ کوشش سراسر بے سود ثابت ہوئی۔|This effort was completely useless.|The endeavour proved entirely futile.
+everyday|4|تمہارے بھروسے پر لعنت۔|I do not want your trust.|To hell with your trust.
+everyday|4|ایک مصنوعات کو دوسری پر ترجیح دینا گھٹیا کام ہے۔|Choosing one product over another is bad work.|Ranking one product above another is a thoroughly grubby business.
+everyday|4|اس نے نہایت مہارت سے بات کو گھما دیا۔|He cleverly changed the topic.|He deftly deflected the question without appearing to evade it.
+everyday|4|اس کا رویہ ناقابل برداشت حد تک متکبرانہ تھا۔|He behaved very proudly.|His manner was insufferably supercilious.
+everyday|4|یہ دلیل بظاہر درست مگر حقیقتاً کھوکھلی ہے۔|This argument looks right but is empty.|The argument is specious, however plausible it may first appear.
+everyday|4|اس نے اپنی ناکامی کا ملبہ دوسروں پر ڈال دیا۔|He blamed others for his failure.|He shifted the blame for his failure squarely onto others.
+everyday|4|وقت نے اس کے فیصلے کو درست ثابت کیا۔|Time proved his decision right.|Time ultimately vindicated his judgement.
+everyday|4|یہ تنقید تعمیری کم اور ذاتی زیادہ تھی۔|This criticism was more personal than helpful.|The critique was less constructive than it was personal.
+everyday|4|اس نے بغیر کسی پشیمانی کے انکار کر دیا۔|He refused without feeling sorry.|He refused without the slightest compunction.
+everyday|4|ایسی حرکت قابل مذمت ہے۔|Such behaviour is very bad.|Such conduct is wholly reprehensible.
+everyday|4|اس کے دلائل ناقابل تردید تھے۔|Nobody could argue against him.|His arguments were incontrovertible.
+everyday|4|یہ محض لفظی جمع خرچ ہے۔|These are only empty words.|This amounts to little more than empty rhetoric.
+everyday|4|اس نے حالات کے سامنے ہتھیار ڈال دیے۔|He gave up because of the situation.|He capitulated to circumstances rather than confront them.
+everyday|4|اس کی بصیرت وقت سے آگے تھی۔|He understood things before others.|His insight proved remarkably prescient.
+everyday|4|یہ اقدام جلد بازی پر مبنی تھا۔|This step was taken too quickly.|The move was impetuous and insufficiently considered.
+everyday|4|اس نے تمام الزامات کو مسترد کر دیا۔|He said all the blame was false.|He repudiated every one of the allegations.
+everyday|4|ان کے درمیان دیرینہ عداوت تھی۔|They had been enemies for a long time.|A longstanding animosity existed between them.
+everyday|4|یہ تفصیل غیر ضروری اور اکتا دینے والی ہے۔|This detail is extra and boring.|The detail is both superfluous and tedious.
+everyday|4|اس نے نہایت فراخ دلی کا مظاہرہ کیا۔|He was very generous.|He proved magnanimous in the extreme.
+everyday|4|یہ کامیابی محض اتفاق نہیں تھی۔|This success was not just luck.|This success was by no means fortuitous.
+everyday|4|اس کے لہجے میں طنز نمایاں تھا۔|You could hear the mocking in his voice.|A sardonic edge was unmistakable in his tone.
+everyday|4|یہ مسئلہ بظاہر ناقابل حل لگتا ہے۔|This problem seems impossible to solve.|The problem appears, at least for now, intractable.
+everyday|4|اس نے اپنے اصولوں پر سمجھوتہ نہیں کیا۔|He did not change his principles.|He refused to compromise his principles under any inducement.
+everyday|4|یہ بیان حقائق سے مطابقت نہیں رکھتا۔|This statement does not match the facts.|This account is irreconcilable with the established facts.
+everyday|4|اس نے خاموشی سے سب کچھ برداشت کیا۔|He suffered everything quietly.|He bore it all with quiet stoicism.
+everyday|4|ان کی گفتگو بے مقصد اور طویل تھی۔|Their talk was long and pointless.|Their discussion was as protracted as it was vacuous.
+everyday|4|اس نے موقع سے بھرپور فائدہ اٹھایا۔|He used the chance very well.|He exploited the opportunity to the fullest.
+everyday|4|یہ رویہ ادارے کے لیے نقصان دہ ہے۔|This behaviour harms the organisation.|Such conduct is deeply inimical to the institution.
+everyday|4|اس نے اپنی بات نہایت اختصار سے کہی۔|He said it in very few words.|He put his case with admirable concision.
+everyday|4|یہ منصوبہ ابتدا ہی سے ناقص تھا۔|This plan was bad from the start.|The scheme was flawed from its very inception.
+everyday|4|اس کی تعریف حد سے بڑھی ہوئی تھی۔|He praised too much.|His praise was frankly fulsome.
+everyday|4|یہ معاملہ عدالت میں طے ہوا۔|The court decided this matter.|The dispute was ultimately settled through litigation.
+everyday|4|اس نے حقیقت کو خوبصورت الفاظ میں چھپایا۔|He hid the truth in nice words.|He cloaked an unpalatable truth in euphemism.
+everyday|4|ان کا اتحاد عارضی ثابت ہوا۔|Their friendship did not last.|Their alliance proved distinctly ephemeral.
+everyday|4|یہ کارکردگی توقعات سے کہیں بڑھ کر تھی۔|This work was much better than expected.|The performance surpassed all reasonable expectation.
+everyday|4|اس نے بلا جھجک سچ بولا۔|He told the truth without fear.|He spoke the truth without hesitation or hedging.
+everyday|4|یہ عادت وقت کے ساتھ پختہ ہو گئی۔|This habit became strong over time.|The habit became thoroughly ingrained over time.
+everyday|4|اس کے استدلال میں کوئی جھول نہیں تھا۔|There was no weakness in his reasoning.|His reasoning was watertight throughout.
+everyday|4|اس نے بظاہر معصوم سوال سے سب کو الجھا دیا۔|His simple question confused everyone.|His ostensibly innocuous question threw everyone into confusion.
+everyday|4|یہ تنقید ذاتی عناد پر مبنی معلوم ہوتی ہے۔|This criticism seems personal.|The critique appears to be animated by personal rancour.
+everyday|4|اس نے اپنی بات کو غیر ضروری طور پر پیچیدہ بنا دیا۔|He made his point too complicated.|He rendered his argument needlessly convoluted.
+everyday|4|یہ منصوبہ خوش کن مگر ناقابل عمل ہے۔|This plan sounds nice but cannot work.|The scheme is attractive in principle but wholly unworkable.
+everyday|4|اس کے چہرے پر کوئی تاثر نہیں تھا۔|You could not read his face.|His expression remained utterly inscrutable.
+everyday|4|یہ عمل اخلاقی اعتبار سے قابل اعتراض ہے۔|This action is morally wrong.|The practice is ethically indefensible.
+everyday|4|اس نے مخالفت کے باوجود کام جاری رکھا۔|He continued despite opposition.|He pressed on undeterred by the opposition.
+everyday|4|یہ کہانی حقیقت اور افسانے کا امتزاج ہے۔|This story mixes truth and fiction.|The account is an amalgam of fact and invention.
+everyday|4|اس نے چالاکی سے اصل سوال ٹال دیا۔|He cleverly avoided the real question.|He adroitly sidestepped the substantive question.
+everyday|4|یہ اقدام دیرینہ مسئلے کا عارضی حل ہے۔|This step is a short fix for an old problem.|The measure is a stopgap remedy for a longstanding problem.
+everyday|4|اس کی گفتگو میں غیر معمولی وضاحت تھی۔|He spoke very clearly.|There was an uncommon lucidity to his exposition.
+everyday|4|یہ رویہ ادارے کی ساکھ کے لیے مہلک ہے۔|This behaviour harms the name of the institution.|Such conduct is corrosive to the institution's standing.
+everyday|4|اس نے بغیر کسی جھجک کے سچ کہہ دیا۔|He said the truth openly.|He spoke the unvarnished truth without flinching.
+everyday|4|یہ دلیل بار بار دہرائی جا چکی ہے۔|This argument has been said many times.|This argument has been rehearsed ad nauseam.
+everyday|4|اس نے اپنے حریف کی خوبیوں کا اعتراف کیا۔|He accepted his rival was good.|He was magnanimous enough to acknowledge his rival's merits.
+home|1|امی، مجھے بھوک لگی ہے۔|Mum, I am hungry.|Mum, I could really do with something to eat.
+home|1|میں اٹھ گیا ہوں۔|I am up.|I am already awake.
+home|1|ناشتہ تیار ہے؟|Is breakfast ready?|Is breakfast ready yet?
+home|1|میں منہ دھو رہا ہوں۔|I am washing my face.|I am just washing up.
+home|1|میرے جوتے کہاں ہیں؟|Where are my shoes?|Do you know where I left my shoes?
+home|1|میں سکول جا رہا ہوں۔|I am going to school.|I am off to school now.
+home|1|دروازہ بند کر دیں۔|Please close the door.|Would you mind shutting the door?
+home|1|لائٹ بجھا دیں۔|Turn off the light.|Could you switch the light off, please?
+home|1|کھانا بہت مزیدار ہے۔|The food is very tasty.|This meal is absolutely delicious.
+home|1|میں برتن دھو دوں؟|Should I wash the dishes?|Shall I take care of the washing up?
+home|1|میں اپنا کمرہ صاف کر رہا ہوں۔|I am cleaning my room.|I am tidying up my room.
+home|1|ٹی وی کی آواز کم کریں۔|Turn the TV down.|Could you turn the volume down a little?
+home|1|میں تھوڑی دیر آرام کروں گا۔|I will rest for a while.|I am going to have a little lie down.
+home|1|میں سونے جا رہا ہوں۔|I am going to sleep.|I am off to bed.
+home|1|صبح مجھے جگا دیں۔|Wake me up in the morning.|Would you give me a shout in the morning?
+home|2|میں نے اپنا ہوم ورک مکمل کر لیا ہے۔|I have finished my homework.|I have got through all my homework.
+home|2|کیا میں تھوڑی دیر باہر کھیل سکتا ہوں؟|Can I play outside for a while?|Would it be all right if I played outside for a bit?
+home|2|مہمان آ رہے ہیں، کمرہ ٹھیک کر دو۔|Guests are coming, tidy the room.|We have guests on the way, so give the room a quick tidy.
+home|2|میں کپڑے تہہ کر رہا ہوں۔|I am folding the clothes.|I am folding the laundry.
+home|2|بجلی چلی گئی ہے۔|The electricity has gone.|We seem to have a power cut.
+home|2|فریج میں کچھ نہیں بچا۔|There is nothing left in the fridge.|The fridge is more or less empty.
+home|2|میں دکان سے دودھ لے آتا ہوں۔|I will get milk from the shop.|I will nip to the shop for some milk.
+home|2|آج گھر کا کام زیادہ ہے۔|There is a lot of housework today.|There is quite a lot to get through around the house today.
+home|2|میرا موبائل چارج پر لگا دیں۔|Put my phone on charge.|Could you plug my phone in to charge?
+home|2|کھانا ٹھنڈا ہو رہا ہے، جلدی آؤ۔|The food is getting cold, come quickly.|Come along, the food is going cold.
+home|2|میں نے چابی میز پر رکھی تھی۔|I put the key on the table.|I am sure I left the key on the table.
+home|2|آج جلدی سو جانا، کل امتحان ہے۔|Sleep early today, the exam is tomorrow.|Have an early night — you have an exam in the morning.
+home|2|میں کچرا باہر پھینک آتا ہوں۔|I will throw the rubbish outside.|I will take the rubbish out.
+home|2|پنکھا چلا دیں، بہت گرمی ہے۔|Turn on the fan, it is very hot.|Could you put the fan on? It is stifling in here.
+home|3|گھر کے کاموں میں سب کو ہاتھ بٹانا چاہیے۔|Everyone should help with housework.|Household chores really ought to be shared between everyone.
+home|3|اس مہینے بجلی کا بل بہت زیادہ آیا ہے۔|The electricity bill is very high this month.|The electricity bill has come in considerably higher this month.
+home|3|ہمیں پانی ضائع کرنے سے گریز کرنا چاہیے۔|We should avoid wasting water.|We would do well to avoid wasting water.
+home|3|میں نے پرانی چیزیں الگ کر دی ہیں۔|I have separated the old things.|I have sorted out the things we no longer need.
+home|3|گھر کا ماحول پرسکون رکھنا ضروری ہے۔|It is important to keep the home peaceful.|Maintaining a calm atmosphere at home is essential.
+home|3|مرمت کا کام کل کروا لیں گے۔|We will get the repair done tomorrow.|We will have the repairs seen to tomorrow.
+home|4|گھریلو ذمہ داریوں کی منصفانہ تقسیم ضروری ہے۔|Housework should be divided fairly.|An equitable division of domestic responsibilities is essential.
+home|4|اس گھر میں ہر چیز اپنی جگہ پر ہونی چاہیے۔|Everything in this house should be in its place.|In this household everything ought to have its designated place.
+home|4|والدین کا احترام ہماری روایت کا حصہ ہے۔|Respecting parents is part of our tradition.|Deference towards one's parents is deeply ingrained in our tradition.
+home|4|یہ گھر برسوں کی محنت کا نتیجہ ہے۔|This house is the result of years of hard work.|This home is the fruit of years of unstinting effort.
+classroom|1|السلام علیکم سر۔|Good morning, sir.|Good morning, sir.
+classroom|1|میں حاضر ہوں۔|Present, sir.|Present, sir.
+classroom|1|مجھے سمجھ نہیں آیا۔|I did not understand.|I am afraid I did not quite follow that.
+classroom|1|براہ کرم دوبارہ بتائیں۔|Please say it again.|Could you go over that once more, please?
+classroom|1|کیا میں پانی پی سکتا ہوں؟|May I drink water?|May I get a drink of water?
+classroom|1|میں اپنی کاپی بھول گیا۔|I forgot my notebook.|I am afraid I have left my notebook at home.
+classroom|1|مجھے ایک سوال پوچھنا ہے۔|I want to ask a question.|May I ask a question?
+classroom|1|یہ لفظ کیسے بولتے ہیں؟|How do you say this word?|How is this word pronounced?
+classroom|1|میں نے ہوم ورک کر لیا ہے۔|I have done my homework.|I have completed my homework.
+classroom|1|کیا میں باہر جا سکتا ہوں؟|May I go outside?|May I be excused for a moment?
+classroom|1|میری پنسل ٹوٹ گئی۔|My pencil is broken.|My pencil has broken.
+classroom|1|میں بورڈ نہیں دیکھ سکتا۔|I cannot see the board.|I am having trouble seeing the board.
+classroom|1|شکریہ سر۔|Thank you, sir.|Thank you very much, sir.
+classroom|1|کل چھٹی ہے؟|Is tomorrow a holiday?|Are we off tomorrow?
+classroom|2|کیا آپ یہ سوال دوبارہ سمجھا سکتے ہیں؟|Can you explain this question again?|Would you mind going over this question once more?
+classroom|2|میں نے یہ سبق گھر پر دہرایا تھا۔|I revised this lesson at home.|I went over this lesson again at home.
+classroom|2|میرا جواب غلط کیوں ہے؟|Why is my answer wrong?|Could you show me where my answer went wrong?
+classroom|2|کیا یہ امتحان میں آئے گا؟|Will this come in the exam?|Is this likely to come up in the exam?
+classroom|2|میں گروپ کے ساتھ کام کروں گا۔|I will work with the group.|I am happy to work with the group.
+classroom|2|مجھے تھوڑا اور وقت چاہیے۔|I need a little more time.|Could I have a little longer, please?
+classroom|2|میں نے اپنا کام جمع کرا دیا ہے۔|I have submitted my work.|I have handed my work in.
+classroom|2|کیا میں یہ کتاب ادھار لے سکتا ہوں؟|Can I borrow this book?|Would it be possible to borrow this book?
+classroom|2|میں کل غیر حاضر تھا۔|I was absent yesterday.|I was away yesterday.
+classroom|2|براہ کرم آہستہ لکھیں۔|Please write slowly.|Could you write a little more slowly, please?
+classroom|2|میں نے نوٹس مکمل کر لیے ہیں۔|I have completed my notes.|I have finished writing up my notes.
+classroom|2|یہ موضوع بہت دلچسپ ہے۔|This topic is very interesting.|I find this topic genuinely interesting.
+classroom|2|کیا ہم اس پر بات کر سکتے ہیں؟|Can we discuss this?|Might we discuss this a little further?
+classroom|3|مجھے اس تصور کی وضاحت درکار ہے۔|I need this concept explained.|I would appreciate a fuller explanation of this concept.
+classroom|3|میں نے حوالہ جات کتاب سے لیے ہیں۔|I took the references from the book.|I have drawn my references from the textbook.
+classroom|3|یہ نکتہ پچھلے باب سے متعلق ہے۔|This point relates to the last chapter.|This point ties back to the previous chapter.
+classroom|3|کیا میں اپنی رائے پیش کر سکتا ہوں؟|May I give my opinion?|Might I offer a view on this?
+classroom|3|میں اس نتیجے سے متفق نہیں ہوں۔|I do not agree with this conclusion.|I am not entirely persuaded by that conclusion.
+classroom|3|مجھے اضافی مشق چاہیے۔|I need extra practice.|I would benefit from some additional practice.
+classroom|3|یہ سوال پچھلے پرچے میں بھی آیا تھا۔|This question came in the last paper too.|This question also featured in the previous paper.
+classroom|3|میں نے اپنی غلطی درست کر لی ہے۔|I have corrected my mistake.|I have since rectified my error.
+classroom|4|کیا آپ اس دلیل کی بنیاد واضح کر سکتے ہیں؟|Can you explain the base of this argument?|Could you clarify the premise underpinning this argument?
+classroom|4|میں اس مفروضے پر سوال اٹھانا چاہتا ہوں۔|I want to question this assumption.|I should like to interrogate that assumption.
+classroom|4|یہ نظریہ عملی طور پر کیسے لاگو ہوتا ہے؟|How does this theory apply in practice?|In what way does this theory translate into practice?
+classroom|4|میں نے اس موضوع پر مزید مطالعہ کیا ہے۔|I have studied more on this topic.|I have read around this topic in some depth.
+market|1|کچھ کم کر دیں۔|Please reduce the price.|Could you do a little better on the price?
+market|1|مجھے ایک کلو چاہیے۔|I want one kilo.|I would like a kilo, please.
+market|1|یہ تازہ ہے؟|Is this fresh?|Is this fresh today?
+market|1|مجھے یہ والا دکھائیں۔|Show me this one.|Could I have a look at that one?
+market|1|کیا اور رنگ ہیں؟|Are there other colours?|Do you have this in any other colours?
+market|1|میں بعد میں آؤں گا۔|I will come later.|I will pop back later.
+market|1|بل بنا دیں۔|Make the bill.|Could I have the bill, please?
+market|1|کیا کارڈ چلتا ہے؟|Do you take card?|Do you accept card payments?
+market|1|میرے پاس کھلے پیسے نہیں۔|I have no change.|I am afraid I have not got any change.
+market|1|شکریہ، یہی ٹھیک ہے۔|Thank you, this is fine.|Thank you, this will do nicely.
+market|2|کیا اس پر کوئی رعایت ہے؟|Is there any discount on this?|Is there any discount available on this?
+market|2|مجھے تھوڑا سوچنے دیں۔|Let me think a little.|Let me have a think about it.
+market|2|کیا یہ واپس ہو سکتا ہے؟|Can this be returned?|What is your returns policy on this?
+market|2|میں نے یہ پچھلے ہفتے خریدا تھا۔|I bought this last week.|I purchased this only last week.
+market|2|یہ خراب نکلا ہے۔|This turned out to be faulty.|This appears to be defective.
+market|2|کیا آپ اسے بدل سکتے ہیں؟|Can you change it?|Would you be able to exchange it?
+market|2|مجھے رسید چاہیے۔|I need a receipt.|Could I have a receipt, please?
+market|2|قیمتیں پچھلے مہینے سے بڑھ گئی ہیں۔|Prices have risen since last month.|Prices have gone up noticeably since last month.
+market|2|کیا یہ سائز چھوٹا ہے؟|Is this size small?|Would you have this in a smaller size?
+market|2|میں پورا سیٹ لے لوں گا۔|I will take the whole set.|I will take the complete set.
+market|2|ڈیلیوری کا کیا خرچ ہے؟|What is the delivery cost?|What would delivery come to?
+market|2|یہ معیار اچھا نہیں لگ رہا۔|This quality does not look good.|The quality does not look up to much.
+market|3|کیا اس پر کوئی وارنٹی ہے؟|Is there a warranty on this?|Does this come with any form of warranty?
+market|3|میں قیمتوں کا موازنہ کرنا چاہتا ہوں۔|I want to compare the prices.|I would like to compare prices before deciding.
+market|3|یہ برانڈ زیادہ قابل اعتماد ہے۔|This brand is more reliable.|This brand has a rather better reputation for reliability.
+market|3|تھوک میں لینے پر کیا قیمت ہو گی؟|What is the price in bulk?|What rate could you offer on a bulk order?
+market|3|مجھے تحریری ضمانت درکار ہے۔|I need a written guarantee.|I would want that guarantee in writing.
+market|3|یہ سودا مناسب معلوم ہوتا ہے۔|This deal seems reasonable.|That strikes me as a fair deal.
+market|4|اس قیمت پر یہ سودا شاید ہی فائدہ مند ہو۔|At this price the deal is hardly good.|At that price the transaction is scarcely worth entering into.
+market|4|میں شرائط کو تحریری شکل میں دیکھنا چاہوں گا۔|I want to see the terms in writing.|I should like to see the terms set out in writing.
+market|4|بازار میں اس وقت مانگ زیادہ ہے۔|There is high demand in the market now.|Demand in the market is currently running high.
+market|4|ان کے دعوے مبالغہ آمیز معلوم ہوتے ہیں۔|Their claims seem exaggerated.|Their claims strike me as somewhat hyperbolic.
+market|4|میں جلد بازی میں فیصلہ نہیں کروں گا۔|I will not decide in a hurry.|I have no intention of making a precipitate decision.
+doctor|1|میری طبیعت ٹھیک نہیں۔|I am not feeling well.|I am not feeling at all well.
+doctor|1|مجھے بخار ہے۔|I have a fever.|I seem to have a temperature.
+doctor|1|میرے سر میں درد ہے۔|I have a headache.|I have rather a bad headache.
+doctor|1|میرے پیٹ میں درد ہے۔|I have a stomach ache.|I have a pain in my stomach.
+doctor|1|مجھے کھانسی ہے۔|I have a cough.|I have had a cough for a few days.
+doctor|1|یہ کب سے ہے؟|Since when is this?|How long has this been going on?
+doctor|1|دو دن سے ہے۔|It has been two days.|It started a couple of days ago.
+doctor|1|یہ دوا کب لینی ہے؟|When should I take this medicine?|When should this medicine be taken?
+doctor|1|کھانے سے پہلے یا بعد میں؟|Before or after food?|Should it be taken before or after meals?
+doctor|1|مجھے آرام کی ضرورت ہے۔|I need rest.|I need to take it easy for a while.
+doctor|1|شکریہ ڈاکٹر صاحب۔|Thank you, doctor.|Thank you very much, doctor.
+doctor|2|مجھے سانس لینے میں دشواری ہو رہی ہے۔|I am having trouble breathing.|I have been finding it difficult to breathe.
+doctor|2|یہ درد رات کو بڑھ جاتا ہے۔|This pain increases at night.|The pain tends to worsen at night.
+doctor|2|کیا مجھے ٹیسٹ کرانے ہوں گے؟|Will I have to get tests done?|Will I need to have any tests?
+doctor|2|میں پہلے بھی یہ دوا لے چکا ہوں۔|I have taken this medicine before.|I have been on this medication before.
+doctor|2|مجھے اس دوا سے الرجی ہے۔|I am allergic to this medicine.|I have an allergy to that medication.
+doctor|2|کیا مجھے پرہیز کرنا ہو گا؟|Do I need to avoid anything?|Is there anything I should avoid?
+doctor|2|میں دوبارہ کب آؤں؟|When should I come again?|When would you like to see me again?
+doctor|2|کیا یہ سنگین ہے؟|Is this serious?|Is this anything to be concerned about?
+doctor|2|میری نیند پوری نہیں ہوتی۔|I do not sleep enough.|I have not been sleeping properly.
+doctor|3|علامات بتدریج بڑھ رہی ہیں۔|The symptoms are increasing slowly.|The symptoms have been worsening gradually.
+doctor|3|کیا اس کے مضر اثرات ہیں؟|Does it have side effects?|Are there any side effects I should know about?
+doctor|3|میں اپنی رپورٹ ساتھ لایا ہوں۔|I have brought my report.|I have brought my test results with me.
+doctor|3|کیا کوئی متبادل علاج موجود ہے؟|Is there any alternative treatment?|Is there an alternative course of treatment?
+doctor|3|میں دوسری رائے لینا چاہتا ہوں۔|I want a second opinion.|I would like to seek a second opinion.
+doctor|3|یہ مسئلہ خاندان میں چلتا آ رہا ہے۔|This problem runs in the family.|There is a family history of this condition.
+doctor|4|میں علاج کے خطرات اور فوائد جاننا چاہتا ہوں۔|I want to know the risks and benefits.|I should like to understand both the risks and the benefits of this treatment.
+doctor|4|یہ تشخیص ابتدائی معلوم ہوتی ہے۔|This diagnosis seems preliminary.|The diagnosis appears provisional at this stage.
+doctor|4|کیا یہ حالت قابل علاج ہے؟|Is this condition treatable?|Is the condition amenable to treatment?
+doctor|4|احتیاطی تدابیر پر عمل ضروری ہے۔|Following precautions is necessary.|Adherence to the precautions is essential.
+travel|1|یہ بس کہاں جاتی ہے؟|Where does this bus go?|Where does this bus go to?
+travel|1|کرایہ کتنا ہے؟|How much is the fare?|What is the fare?
+travel|1|مجھے ایک ٹکٹ چاہیے۔|I need one ticket.|Could I have one ticket, please?
+travel|1|اگلا اسٹاپ کون سا ہے؟|Which is the next stop?|What is the next stop?
+travel|1|مجھے یہاں اترنا ہے۔|I have to get off here.|This is my stop.
+travel|1|اسٹیشن کتنی دور ہے؟|How far is the station?|How far is it to the station?
+travel|1|کیا یہ راستہ صحیح ہے؟|Is this the right way?|Am I going the right way?
+travel|1|براہ کرم راستہ بتائیں۔|Please tell me the way.|Could you point me in the right direction?
+travel|1|سیدھے جائیں پھر بائیں مڑیں۔|Go straight then turn left.|Carry straight on, then take a left.
+travel|1|میں راستہ بھول گیا ہوں۔|I have lost my way.|I seem to have lost my way.
+travel|1|ٹرین کب آئے گی؟|When will the train come?|When is the train due?
+travel|1|میں دیر سے پہنچوں گا۔|I will arrive late.|I am going to be running late.
+travel|2|کیا کوئی سیدھی گاڑی ہے؟|Is there a direct vehicle?|Is there a direct service?
+travel|2|مجھے کہاں سے گاڑی بدلنی ہو گی؟|Where do I have to change?|Where would I need to change?
+travel|2|سفر میں کتنا وقت لگے گا؟|How long will the journey take?|How long does the journey usually take?
+travel|2|کیا سیٹ بک کرانی پڑے گی؟|Do I need to book a seat?|Would I need to reserve a seat?
+travel|2|ٹرین تاخیر کا شکار ہے۔|The train is delayed.|The train is running behind schedule.
+travel|2|میرا سامان کہاں رکھوں؟|Where should I keep my luggage?|Where should I put my luggage?
+travel|2|قریب ترین ہوٹل کہاں ہے؟|Where is the nearest hotel?|Whereabouts is the nearest hotel?
+travel|2|کیا یہاں سے پیدل جا سکتے ہیں؟|Can we walk from here?|Is it within walking distance from here?
+travel|2|مجھے ایئرپورٹ جانا ہے۔|I have to go to the airport.|I need to get to the airport.
+travel|2|رش کے اوقات سے بچنا بہتر ہے۔|It is better to avoid rush hours.|It is best to steer clear of the rush hour.
+travel|3|کیا یہ راستہ اس وقت کھلا ہے؟|Is this route open at this time?|Is this route currently passable?
+travel|3|موسم کی وجہ سے پرواز منسوخ ہو گئی۔|The flight was cancelled due to weather.|The flight has been cancelled owing to the weather.
+travel|3|مجھے متبادل انتظام کرنا ہو گا۔|I will have to make another arrangement.|I shall need to make alternative arrangements.
+travel|3|سفر کی دستاویزات مکمل ہیں؟|Are the travel documents complete?|Is all your travel documentation in order?
+travel|3|میں پیشگی بکنگ کو ترجیح دیتا ہوں۔|I prefer booking in advance.|I much prefer to book in advance.
+travel|3|یہ علاقہ سیاحوں میں مقبول ہے۔|This area is popular with tourists.|This area is a firm favourite with visitors.
+travel|4|تاخیر کے باعث پورا شیڈول متاثر ہوا۔|The delay affected the whole schedule.|The delay threw the entire schedule into disarray.
+travel|4|مجھے معاوضے کا دعویٰ کرنا ہو گا۔|I will have to claim compensation.|I shall need to submit a claim for compensation.
+travel|4|یہ راستہ نسبتاً کم بھیڑ والا ہے۔|This route has less crowd.|This route is comparatively free of congestion.
+travel|4|سفر سے پہلے حالات کا جائزہ لینا دانشمندی ہے۔|It is wise to check conditions before travel.|It is prudent to assess conditions before setting off.
+travel|4|میرا سامان راستے میں گم ہو گیا۔|My luggage was lost on the way.|My luggage went astray in transit.
+travel|4|ہمیں متبادل راستہ اختیار کرنا پڑا۔|We had to take another route.|We were obliged to take a diversion.
+travel|4|یہ تاخیر ناگزیر معلوم ہوتی ہے۔|This delay seems unavoidable.|The delay appears to have been unavoidable.
+food|1|مینو دکھائیں۔|Show me the menu.|Could I see the menu, please?
+food|1|مجھے چائے چاہیے۔|I want tea.|I would like a cup of tea, please.
+food|1|ایک پانی کی بوتل دیں۔|Give me a bottle of water.|Could I have a bottle of water?
+food|1|یہ بہت مزیدار ہے۔|This is very tasty.|This is absolutely delicious.
+food|1|یہ بہت مرچ والا ہے۔|This is very spicy.|This is a little too spicy for me.
+food|1|مجھے کم مرچ چاہیے۔|I want less spice.|Could I have it mild, please?
+food|1|بل لے آئیں۔|Bring the bill.|Could we have the bill, please?
+food|1|مجھے اور روٹی چاہیے۔|I want more bread.|Could I have some more bread, please?
+food|1|یہ ٹھنڈا ہو گیا ہے۔|This has gone cold.|I am afraid this has gone cold.
+food|1|میز خالی ہے؟|Is a table free?|Do you have a table free?
+food|2|کیا آپ کچھ تجویز کریں گے؟|Will you suggest something?|What would you recommend?
+food|2|اس میں کیا شامل ہے؟|What is in it?|What does that come with?
+food|2|مجھے گوشت نہیں چاہیے۔|I do not want meat.|I would prefer something without meat.
+food|2|کھانے میں کتنا وقت لگے گا؟|How long will the food take?|How long is the food likely to take?
+food|2|کیا یہ حصہ دو افراد کے لیے کافی ہے؟|Is this portion enough for two?|Would that portion be enough for two people?
+food|2|ہم باہر بیٹھنا چاہیں گے۔|We would like to sit outside.|We would rather sit outside, if possible.
+food|2|بل میں کوئی غلطی لگتی ہے۔|There seems to be a mistake in the bill.|I think there may be an error on the bill.
+food|2|کھانا بہت اچھا تھا، شکریہ۔|The food was very good, thank you.|The meal was excellent, thank you.
+food|2|کیا میں یہ پیک کروا سکتا ہوں؟|Can I get this packed?|Could I have this to take away?
+food|3|کیا اس میں کوئی ایسی چیز ہے جس سے الرجی ہو؟|Is there anything in it that causes allergy?|Does this contain any common allergens?
+food|3|میں تازہ اجزاء کو ترجیح دیتا ہوں۔|I prefer fresh ingredients.|I have a strong preference for fresh ingredients.
+food|3|خدمت بہت عمدہ رہی۔|The service was excellent.|The service was first rate.
+food|3|یہ ڈش مقامی خصوصیت ہے۔|This dish is a local speciality.|This dish is something of a local speciality.
+food|3|کیا آپ کوئی ہلکی چیز تجویز کریں گے؟|Would you suggest something light?|Could you recommend something on the lighter side?
+food|4|کھانے کا معیار توقعات سے کہیں بہتر تھا۔|The food quality was better than expected.|The quality of the food comfortably surpassed expectation.
+food|4|یہ ذائقہ نہایت لطیف اور متوازن ہے۔|This taste is very light and balanced.|The flavours here are remarkably subtle and well balanced.
+food|4|قیمت کے اعتبار سے یہ مناسب نہیں۔|Considering the price it is not reasonable.|It represents rather poor value for money.
+food|4|میں اس جگہ کی سفارش ضرور کروں گا۔|I will definitely recommend this place.|I would recommend this establishment without hesitation.
+food|4|پیشکش دیکھنے میں جتنی اچھی تھی، ذائقہ اتنا نہیں۔|The presentation was better than the taste.|The presentation rather flattered the flavour.
+friends|1|چلو کھیلتے ہیں۔|Let us play.|Shall we have a game?
+friends|1|تمہاری باری ہے۔|It is your turn.|Your turn.
+friends|1|میں جیت گیا!|I won!|I have won!
+friends|1|اچھی کوشش تھی۔|Good try.|That was a good effort.
+friends|1|کیا میں بھی کھیل سکتا ہوں؟|Can I play too?|May I join in?
+friends|1|یہ میرا دوست ہے۔|This is my friend.|This is a friend of mine.
+friends|1|چلو باہر چلتے ہیں۔|Let us go outside.|Shall we head outside?
+friends|1|مجھے یہ کھیل پسند ہے۔|I like this game.|I am rather fond of this game.
+friends|1|تم کہاں رہتے ہو؟|Where do you live?|Whereabouts do you live?
+friends|1|کل ملیں گے۔|See you tomorrow.|See you tomorrow, then.
+friends|1|معاف کرنا، میں نے جان بوجھ کر نہیں کیا۔|Sorry, I did not do it on purpose.|Sorry, that was not intentional.
+friends|2|کیا تم ویک اینڈ پر فارغ ہو؟|Are you free at the weekend?|Are you around at the weekend?
+friends|2|چلو مل کر پڑھتے ہیں۔|Let us study together.|Shall we revise together?
+friends|2|میں تمہارا انتظار کروں گا۔|I will wait for you.|I will wait for you.
+friends|2|تم نے یہ کیسے سیکھا؟|How did you learn this?|How did you pick that up?
+friends|2|مجھے تمہاری مدد کی ضرورت ہے۔|I need your help.|I could do with your help.
+friends|2|شکریہ، تم نے بہت مدد کی۔|Thank you, you helped a lot.|Thank you, you have been a great help.
+friends|2|چلو یہ جھگڑا ختم کرتے ہیں۔|Let us end this quarrel.|Shall we put this argument behind us?
+friends|2|میں تم سے ناراض نہیں ہوں۔|I am not angry with you.|I am not cross with you at all.
+friends|2|تمہارا خیال اچھا ہے۔|Your idea is good.|That is a good idea of yours.
+friends|2|میں دیر سے آیا، معذرت۔|I came late, sorry.|Sorry I am late.
+friends|2|چلو کچھ نیا آزماتے ہیں۔|Let us try something new.|Shall we give something new a go?
+friends|3|مجھے تمہاری رائے کی قدر ہے۔|I value your opinion.|I set a lot of store by your opinion.
+friends|3|ہمیں ایک دوسرے کا خیال رکھنا چاہیے۔|We should look after each other.|We ought to look out for one another.
+friends|3|تم نے مشکل وقت میں ساتھ دیا۔|You supported me in a hard time.|You stood by me when it mattered.
+friends|3|میں تمہاری بات سے متفق نہیں، مگر سمجھتا ہوں۔|I do not agree, but I understand.|I take a different view, though I do see your point.
+friends|3|یہ بات ہمارے درمیان رہے۔|Keep this between us.|Let us keep this between ourselves.
+friends|3|تمہاری محنت واقعی قابل تعریف ہے۔|Your hard work is praiseworthy.|Your effort really is commendable.
+friends|4|ہماری دوستی برسوں کی آزمائش پر پوری اتری ہے۔|Our friendship has passed years of testing.|Our friendship has weathered the test of time.
+friends|4|میں تمہاری خاموشی کو ناراضی سمجھ رہا تھا۔|I thought your silence meant anger.|I had taken your silence for displeasure.
+friends|4|اختلاف رائے دوستی میں رکاوٹ نہیں ہونی چاہیے۔|Disagreement should not spoil friendship.|A difference of opinion need not strain a friendship.
+friends|4|تمہارے مشورے نے میرا نقطہ نظر بدل دیا۔|Your advice changed my view.|Your counsel genuinely shifted my perspective.
+friends|4|میں تمہاری بے لوث مدد کا مقروض ہوں۔|I am indebted to your selfless help.|I remain indebted to you for such selfless help.
+phone|1|ہیلو، کون بول رہا ہے؟|Hello, who is speaking?|Hello, who am I speaking to?
+phone|1|میں علی بول رہا ہوں۔|This is Ali speaking.|Ali speaking.
+phone|1|آواز نہیں آ رہی۔|I cannot hear you.|I am afraid I cannot hear you.
+phone|1|ذرا زور سے بولیں۔|Please speak louder.|Could you speak up a little?
+phone|1|میں بعد میں کال کروں گا۔|I will call later.|I will give you a ring later.
+phone|1|میں مصروف ہوں۔|I am busy.|I am a little tied up just now.
+phone|1|مجھے میسج کر دیں۔|Send me a message.|Drop me a message.
+phone|1|میرا نمبر محفوظ کر لیں۔|Save my number.|Do save my number.
+phone|1|بیٹری ختم ہو رہی ہے۔|The battery is running out.|My battery is about to die.
+phone|1|سگنل نہیں آ رہے۔|There is no signal.|I have no signal here.
+phone|1|شکریہ، خدا حافظ۔|Thank you, goodbye.|Thank you, goodbye.
+phone|2|کیا میں ابھی بات کر سکتا ہوں؟|Can I talk now?|Is now a good time to talk?
+phone|2|میں آپ کو واپس کال کرتا ہوں۔|I will call you back.|I will call you straight back.
+phone|2|براہ کرم لائن پر رہیں۔|Please stay on the line.|Would you mind holding the line?
+phone|2|میں نے آپ کا میسج دیکھ لیا ہے۔|I have seen your message.|I have seen your message, thank you.
+phone|2|معذرت، میں کال نہیں سن سکا۔|Sorry, I could not take the call.|Sorry, I missed your call.
+phone|2|کیا آپ تفصیل بھیج سکتے ہیں؟|Can you send the details?|Could you send the details across?
+phone|2|کال کٹ گئی تھی۔|The call got cut.|We got cut off.
+phone|2|میں آپ کو ای میل کر دیتا ہوں۔|I will email you.|I will drop you an email.
+phone|2|فائل موصول ہو گئی ہے۔|The file has been received.|The file has come through, thank you.
+phone|3|میں تحریری تصدیق کا منتظر ہوں۔|I am waiting for written confirmation.|I am awaiting written confirmation.
+phone|3|براہ کرم اس معاملے کی پیروی کریں۔|Please follow up this matter.|Could you follow this up, please?
+phone|3|میں نے آپ کی درخواست آگے بھیج دی ہے۔|I have forwarded your request.|I have passed your request on.
+phone|3|رابطے میں کچھ تعطل رہا۔|There was a break in contact.|There was something of a lapse in communication.
+phone|3|کیا ہم ویڈیو کال پر بات کر سکتے ہیں؟|Can we talk on a video call?|Might we continue this over a video call?
+phone|4|اس معاملے پر تحریری خط و کتابت بہتر ہو گی۔|Written correspondence is better for this.|This is a matter better handled in writing.
+phone|4|میں نے پیغام کا غلط مطلب لیا تھا۔|I misunderstood the message.|I had misconstrued the message.
+phone|4|براہ کرم مجھے تازہ ترین صورتحال سے آگاہ رکھیں۔|Please keep me updated.|Do keep me apprised of developments.
+phone|4|یہ گفتگو خفیہ رکھی جائے۔|Keep this conversation confidential.|I would ask that this conversation remain confidential.
+phone|4|رابطہ منقطع ہونے پر معذرت خواہ ہوں۔|Sorry for the disconnection.|My apologies for the interruption to the line.
+work|1|میں وقت پر آ گیا ہوں۔|I have come on time.|I am here on time.
+work|1|میرا کام مکمل ہو گیا ہے۔|My work is complete.|I have finished my work.
+work|1|مجھے چھٹی چاہیے۔|I need a day off.|I would like to request a day off.
+work|1|میں کل نہیں آ سکوں گا۔|I will not be able to come tomorrow.|I am afraid I will not be in tomorrow.
+work|1|یہ فائل کہاں رکھوں؟|Where should I put this file?|Where would you like this file?
+work|1|مجھے یہ کام سمجھا دیں۔|Please explain this task.|Could you talk me through this task?
+work|1|میں مدد کر سکتا ہوں۔|I can help.|I would be happy to help.
+work|1|میٹنگ کب ہے؟|When is the meeting?|What time is the meeting?
+work|2|مجھے اس کام کے لیے مزید وقت درکار ہے۔|I need more time for this task.|I will need a little longer for this task.
+work|2|میں نے رپورٹ بھیج دی ہے۔|I have sent the report.|I have sent the report across.
+work|2|کیا آپ اس پر نظر ڈال سکتے ہیں؟|Can you look at this?|Would you mind casting an eye over this?
+work|2|یہ ذمہ داری میں لے لیتا ہوں۔|I will take this responsibility.|I am happy to take this on.
+work|2|ہمیں آخری تاریخ سے پہلے مکمل کرنا ہو گا۔|We must finish before the deadline.|We shall need to wrap this up before the deadline.
+work|2|میں ٹیم کے ساتھ مل کر کام کروں گا۔|I will work with the team.|I will coordinate with the team.
+work|2|اس میں کچھ تبدیلیاں درکار ہیں۔|Some changes are needed in this.|This will need a few amendments.
+work|2|میں نے آپ کی ہدایات پر عمل کیا ہے۔|I have followed your instructions.|I have acted on your instructions.
+work|2|کیا ہم اجلاس ملتوی کر سکتے ہیں؟|Can we postpone the meeting?|Might we push the meeting back?
+work|3|میں اس تجویز پر اپنی رائے دینا چاہوں گا۔|I would like to comment on this proposal.|I should like to offer a view on this proposal.
+work|3|منصوبے کی پیش رفت اطمینان بخش ہے۔|The project progress is satisfactory.|Progress on the project has been satisfactory.
+work|3|ہمیں وسائل کا بہتر استعمال کرنا ہو گا۔|We must use resources better.|We shall need to make better use of our resources.
+work|3|یہ فیصلہ ٹیم کی مشاورت سے ہوا ہے۔|This decision was made with the team.|This decision was reached in consultation with the team.
+work|3|میں نے متعلقہ اعداد و شمار منسلک کر دیے ہیں۔|I have attached the relevant figures.|I have appended the relevant figures.
+work|3|اس عمل میں مزید شفافیت درکار ہے۔|This process needs more transparency.|Greater transparency is needed in this process.
+work|3|میں اس کام کو ترجیح دوں گا۔|I will prioritise this task.|I will give this task priority.
+work|4|یہ تجویز عملی مشکلات سے دوچار ہو سکتی ہے۔|This proposal may face practical problems.|This proposal may well encounter practical obstacles.
+work|4|ہمیں طویل مدتی حکمت عملی پر غور کرنا چاہیے۔|We should consider a long-term strategy.|We ought to give serious thought to a longer-term strategy.
+work|4|میں اس ذمہ داری سے سبکدوش ہونا چاہتا ہوں۔|I want to step down from this responsibility.|I should like to relinquish this responsibility.
+work|4|اس معاملے میں مفادات کا ٹکراؤ ہو سکتا ہے۔|There may be a conflict of interest here.|There is a potential conflict of interest here.
+work|4|کارکردگی کا جائزہ سہ ماہی بنیادوں پر ہو گا۔|Performance will be reviewed every quarter.|Performance will be appraised on a quarterly basis.
+work|4|میں اپنے موقف پر قائم ہوں۔|I stand by my position.|I stand by my position on this.

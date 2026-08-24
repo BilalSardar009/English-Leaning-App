@@ -45,6 +45,14 @@ public class LessonListActivity extends AppCompatActivity {
         ring = findViewById(R.id.ringLevel);
         list = findViewById(R.id.listUnits);
         list.setLayoutManager(new LinearLayoutManager(this));
+
+        findViewById(R.id.buttonFlashcards).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                com.saim.englishlearning.util.Anim.pop(v);
+                startActivity(new Intent(LessonListActivity.this, FlashcardActivity.class));
+            }
+        });
     }
 
     @Override

@@ -55,6 +55,19 @@
             android:layout_marginTop="12dp" />
     </LinearLayout>
 
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonFlashcards"
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="14dp"
+        android:text="@string/open_flashcards"
+        android:textAllCaps="false"
+        android:textSize="15sp"
+        app:cornerRadius="16dp" />
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/listUnits"
         android:layout_width="match_parent"
