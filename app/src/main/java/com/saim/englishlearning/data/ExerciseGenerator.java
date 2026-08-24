@@ -81,19 +81,21 @@ public final class ExerciseGenerator {
     private static QuizQuestion buildWordQuestion(Word word, List<Word> pool, int type) {
         switch (type) {
             case TYPE_MEANING: {
-                List<String> options = distractors(pool, word, Field.MEANING, word.meaning);
+                List<String> options = distractors(pool, word, Field.MEANING, Field.WORD, word.meaning);
                 if (options == null) return null;
                 return finish("What does \"" + word.word + "\" mean?", word.meaning, options,
                         "Example: " + word.example);
             }
             case TYPE_URDU: {
-                List<String> options = distractors(pool, word, Field.URDU, word.urdu);
+                List<String> options = distractors(pool, word, Field.URDU, Field.WORD, word.urdu);
                 if (options == null) return null;
                 return finish("Choose the Urdu for \"" + word.word + "\"", word.urdu, options,
                         word.meaning);
             }
             case TYPE_URDU_TO_ENGLISH: {
-                List<String> options = distractors(pool, word, Field.WORD, word.word);
+                // The prompt is the Urdu, so any word sharing that Urdu would also be
+                // a correct answer. Field.URDU as the prompt field keeps those out.
+                List<String> options = distractors(pool, word, Field.WORD, Field.URDU, word.word);
                 if (options == null) return null;
                 return finish("Which English word means \"" + word.urdu + "\"?", word.word, options,
                         word.meaning);
@@ -102,7 +104,7 @@ public final class ExerciseGenerator {
             default: {
                 String blanked = blankOut(word.example, word.word);
                 if (blanked == null) return null;
-                List<String> options = distractors(pool, word, Field.WORD, word.word);
+                List<String> options = distractors(pool, word, Field.WORD, Field.WORD, word.word);
                 if (options == null) return null;
                 return finish(blanked, word.word, options, word.meaning);
             }
@@ -138,17 +140,36 @@ public final class ExerciseGenerator {
         }
     }
 
-    /** Picks three wrong answers that are all different from each other. */
-    private static List<String> distractors(List<Word> pool, Word correctWord, Field field, String correct) {
+    /**
+     * Picks three wrong answers that are all different from each other, and that are
+     * genuinely wrong.
+     *
+     * <p>Several words legitimately share an Urdu translation — blithe, flippant,
+     * nonchalant and insouciant all map to بے پروا. When the prompt is built from
+     * {@code promptField}, any word sharing that value would be an equally correct
+     * answer, so those candidates are rejected rather than offered as distractors.
+     */
+    private static List<String> distractors(List<Word> pool, Word correctWord,
+                                            Field optionField, Field promptField, String correct) {
         Set<String> used = new HashSet<>();
         used.add(correct.trim().toLowerCase(Locale.ROOT));
+        String promptKey = valueOf(correctWord, promptField).trim().toLowerCase(Locale.ROOT);
+
         List<String> options = new ArrayList<>();
         int guard = 0;
-        while (options.size() < 3 && guard < 300) {
+        while (options.size() < 3 && guard < 400) {
             guard++;
             Word candidate = pool.get(RANDOM.nextInt(pool.size()));
             if (candidate.id == correctWord.id) continue;
-            String value = valueOf(candidate, field);
+
+            // Reject anything that would also answer the prompt correctly.
+            String candidatePrompt = valueOf(candidate, promptField);
+            if (candidatePrompt != null
+                    && candidatePrompt.trim().toLowerCase(Locale.ROOT).equals(promptKey)) {
+                continue;
+            }
+
+            String value = valueOf(candidate, optionField);
             if (value == null || value.trim().isEmpty()) continue;
             String key = value.trim().toLowerCase(Locale.ROOT);
             if (used.contains(key)) continue;
