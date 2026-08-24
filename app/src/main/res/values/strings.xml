@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Saim\'s English</string>
-    <string name="app_full_name">Saim\'s English Learning App</string>
+    <string name="app_name">Muntaha\'s App</string>
+    <string name="splash_tagline">Learn English, one day at a time</string>
+    <string name="app_full_name">Muntaha\'s English Learning App</string>
 
     <!-- shared -->
     <string name="back">Back</string>
@@ -209,13 +210,14 @@
 
     <string name="spelling_counter">Word %1$d of %2$d</string>
     <string name="spelling_score">Score %1$d</string>
-    <string name="spelling_hint_input">Type what you hear</string>
     <string name="spelling_right">Correct! +%1$d</string>
     <string name="spelling_wrong">It was \"%1$s\"</string>
     <string name="spelling_hear">Hear it</string>
     <string name="spelling_hear_slow">Slowly</string>
-    <string name="spelling_reveal">Reveal a letter</string>
-    <string name="spelling_check">Check</string>
+    <string name="spelling_reveal">Reveal the next letter</string>
+    <string name="spelling_tap_hint">Listen, then tap the letters in order.</string>
+    <string name="spelling_letter_wrong">Not that letter — listen again and try another.</string>
+    <string name="spelling_hint_used">Letter revealed.</string>
     <string name="spelling_result_label">Spelling Bee score</string>
 
     <string name="scramble_counter">Sentence %1$d of %2$d</string>

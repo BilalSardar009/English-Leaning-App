@@ -1,4 +1,4 @@
-# Saim's English Learning App
+# Muntaha's English Learning App
 
 An Android app (Java) for learning English, built for Urdu speakers. Version 6.
 
@@ -30,7 +30,8 @@ genuinely hard vocabulary — *perspicacious*, *obsequious*, *ineffable*,
   meanings, phrasal verbs, and a mixed round.
 - **Games** — five arcade-style modes:
   - *Word Match* — pair each word with its meaning; matched pairs fade out.
-  - *Spelling Bee* — hear the word, then spell it; hints reveal a letter at a cost.
+  - *Spelling Bee* — hear the word, then spell it **one letter at a time** by
+    tapping letter tiles; each tap must be the next correct letter.
   - *Sentence Scramble* — tap shuffled word chips back into the right order.
   - *Speed Round* — 60 seconds, rising combo multiplier.
   - *Odd One Out* — spot the word from a different level.
@@ -57,6 +58,20 @@ Staggered card entrances, spring pops on tap, shake on a wrong answer, animated
 count-up scores, card flips, animated progress rings and a self-drawn confetti
 burst — no animation libraries, so nothing extra to download. All of it can be
 switched off in Settings.
+
+## Splash screen
+
+The app opens on a splash screen that plays an animated GIF, then moves on to the
+dashboard (or to onboarding on a first run). Tapping skips it.
+
+**To use your own GIF:** replace `app/src/main/res/raw/splash.gif` with your file,
+keeping the name `splash.gif` (lowercase, no spaces or dashes — raw resource names
+must be valid Java identifiers). Rebuild and it appears automatically. A roughly
+square GIF around 300×300 looks best; it is scaled to fit without distortion.
+
+The file currently in the project is a plain placeholder animation. Nothing else
+needs changing when you swap it. If a GIF ever fails to decode, the splash falls
+back to the mascot rather than showing an empty screen.
 
 ## The translator
 
@@ -110,6 +125,18 @@ uses the hyphen form.
 **Nothing is spoken** — the device needs a text-to-speech engine with English
 installed (*Settings → Accessibility → Text-to-speech output*).
 
+**The splash GIF does not animate** — check the file really is an animated GIF and
+that it is at `res/raw/splash.gif`. Static GIFs display as a still image.
+
+## A note on the name
+
+The app is called *Muntaha's App* on the launcher and throughout the interface.
+The Java package is still `com.saim.englishlearning`. That is deliberate: the
+package doubles as the `applicationId`, and changing it makes Android treat the
+result as a different app, so an installed copy would not update — it would
+install alongside the old one and start with empty progress. Say the word if you
+want it renamed anyway and I will migrate it properly.
+
 ## Project layout
 
 ```
@@ -125,7 +152,8 @@ app/src/main/
 │   ├── game/         Games hub + the five game screens
 │   ├── notifications/ ReminderScheduler, ReminderReceiver, BootReceiver
 │   └── *Activity.java
-└── res/              30 layouts, 34 drawables, 249 strings
+├── res/raw/          splash.gif — replace this with your own
+└── res/              31 layouts, 37 drawables, 250 strings
 ```
 
 ### Adding more content
